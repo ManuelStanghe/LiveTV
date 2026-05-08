@@ -20,4 +20,3 @@ Benvenuti nel repository LIVETV. Qui troverete diverse liste M3U per canali TV e
 
 ## Risorse
 - **EPG XML**: [epg.xml](epg.xml) (disponibile anche compresso come [epg.xml.gz](epg.xml.gz))
-- **Loghi**: Cartella [/logos](/logos)
