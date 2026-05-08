@@ -1,661 +1,661 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="uaznao.101" tvg-logo="" group-title="Altro",LBA TV1 [UAZNAO]
+#EXTINF:-1 tvg-id="lbatv1" tvg-logo="" group-title="Altro",LBA TV1 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
-#EXTINF:-1 tvg-id="uaznao.102" tvg-logo="" group-title="Altro",LBA TV2 [UAZNAO]
+#EXTINF:-1 tvg-id="lbatv2" tvg-logo="" group-title="Altro",LBA TV2 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
-#EXTINF:-1 tvg-id="uaznao.103" tvg-logo="" group-title="Altro",LBA TV3 [UAZNAO]
+#EXTINF:-1 tvg-id="lbatv3" tvg-logo="" group-title="Altro",LBA TV3 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=99f90205c24c319db57438296a95cea5:aaec695c88692ac9deb0c0a71a0aeb89
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd
-#EXTINF:-1 tvg-id="uaznao.104" tvg-logo="" group-title="Altro",LBA TV4 [UAZNAO]
+#EXTINF:-1 tvg-id="lbatv4" tvg-logo="" group-title="Altro",LBA TV4 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd
-#EXTINF:-1 tvg-id="uaznao.105" tvg-logo="" group-title="Altro",LBA TV5 [UAZNAO]
+#EXTINF:-1 tvg-id="lbatv5" tvg-logo="" group-title="Altro",LBA TV5 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd
-#EXTINF:-1 tvg-id="uaznao.106" tvg-logo="" group-title="Sport",Sport TV 1 [UAZNAO]
+#EXTINF:-1 tvg-id="sporttv1" tvg-logo="" group-title="Sport",Sport TV 1 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.107" tvg-logo="" group-title="Sport",Sport TV 2 [UAZNAO]
+#EXTINF:-1 tvg-id="sporttv2" tvg-logo="" group-title="Sport",Sport TV 2 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.108" tvg-logo="" group-title="Sport",Sport TV 3 [UAZNAO]
+#EXTINF:-1 tvg-id="sporttv3" tvg-logo="" group-title="Sport",Sport TV 3 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.109" tvg-logo="" group-title="Sport",Sport TV 4 [UAZNAO]
+#EXTINF:-1 tvg-id="sporttv4" tvg-logo="" group-title="Sport",Sport TV 4 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.110" tvg-logo="" group-title="Sport",Sport TV 5 [UAZNAO]
+#EXTINF:-1 tvg-id="sporttv5" tvg-logo="" group-title="Sport",Sport TV 5 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.111" tvg-logo="" group-title="Sport",Sport TV 6 [UAZNAO]
+#EXTINF:-1 tvg-id="sporttv6" tvg-logo="" group-title="Sport",Sport TV 6 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d319aab02a8342248cceb0fdf060bc54:b36668a836b15055be1f04b8d8a8cc70
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.112" tvg-logo="" group-title="Sport",Sport TV 7 [UAZNAO]
+#EXTINF:-1 tvg-id="sporttv7" tvg-logo="" group-title="Sport",Sport TV 7 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.113" tvg-logo="" group-title="Altro",Benfica TV [UAZNAO]
+#EXTINF:-1 tvg-id="benficatv" tvg-logo="" group-title="Altro",Benfica TV [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76ef7d72d9b34c3994167407de1a5d53:d1dd05151da74437dcc7e9c568e170da
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$231/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.114" tvg-logo="" group-title="Sport",Dazn 1 [UAZNAO]
+#EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://guidatv.sky.it/logo/566dazn1_Light_Fit.png?checksum=c755def2-ca8b-4941-a87c-345487727272?tr=n-logo_80" group-title="Sport",Dazn 1 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.115" tvg-logo="" group-title="Sport",Dazn 2 [UAZNAO]
+#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="https://guidatv.sky.it/logo/535dazn2_Light_Fit.png?checksum=af9c8e0f-77ec-4da7-913c-af23e2519823?tr=n-logo_80" group-title="Sport",Dazn 2 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.116" tvg-logo="" group-title="Sport",Dazn 3 [UAZNAO]
+#EXTINF:-1 tvg-id="dazn3" tvg-logo="" group-title="Sport",Dazn 3 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.117" tvg-logo="" group-title="Sport",Dazn 4 [UAZNAO]
+#EXTINF:-1 tvg-id="dazn4.it" tvg-logo="" group-title="Sport",Dazn 4 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b6e5fe5b1d140b092e22cc662088276:6bdd76adbc5bb25089983b2500dde7ca
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.118" tvg-logo="" group-title="Sport",Dazn 5 [UAZNAO]
+#EXTINF:-1 tvg-id="dazn5.it" tvg-logo="" group-title="Sport",Dazn 5 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d931d671884145dfb392be0cade5088c:beee3956b769c39f00fa3ce84a2efaba
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$525/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-#EXTINF:-1 tvg-id="uaznao.119" tvg-logo="" group-title="Altro",Boomerang [UAZNAO]
+#EXTINF:-1 tvg-id="boomerang.it" tvg-logo="https://guidatv.sky.it/logo/367boomerang_Light_Fit.png?checksum=0671910302f4ecae3e6359bf65b54dfe?tr=n-logo_80" group-title="Altro",Boomerang [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118ba94e4aef8a14f6a0a8427eb25dc:a7d17a614e2ac297c248d9435c99d6e3
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276821_f~0_g~1_s~5cf48623-7f59-454f-8a76-b3990fca723a_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~55_x~ecb348556922c461da25175c02dabbf8/nowitlin2/Content/CMAF_CTR_H1/Live/channel(boomerang)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.120" tvg-logo="" group-title="Bambini",Cartoon Network [UAZNAO]
+#EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://guidatv.sky.it/logo/258cartoonnetwork_Light_Fit.png?checksum=1e2be2fd-68f5-4979-8a3f-3eaaf144c2c8?tr=n-logo_80" group-title="Bambini",Cartoon Network [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11189c4f64af73ffdc1a8c6bbb6e2f8a:eb3517c592b7774693a2b30e4b39e461
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276797_f~0_g~1_s~2d86d2a2-d223-4696-a784-4ef4aa140bfd_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~60_x~6c38db36ace0076b59426e8f507cad8f/nowitlin2/Content/CMAF_CTR_H1/Live/channel(cartoonnetwork)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.121" tvg-logo="" group-title="Altro",Comedy Central [UAZNAO]
+#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://guidatv.sky.it/logo/404comedycentral_Light_Fit.png?checksum=4358511eb68a75a7115053855c57e91b?tr=n-logo_80" group-title="Altro",Comedy Central [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11189afa675ae2e1ac1e39747f54e3ff:c48d5ac4621d7738f8442b6476618705
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276837_f~0_g~1_s~e0a32ed5-0ae6-4eb4-a685-83033d2714f8_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~59_x~23e81d8fc63c786b9a28e1544328f81c/nowitlin2/Content/CMAF_CTR_H1/Live/channel(comedycentral)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.122" tvg-logo="" group-title="Bambini",DeAKids [UAZNAO]
+#EXTINF:-1 tvg-id="deakids.it" tvg-logo="https://guidatv.sky.it/logo/460deakids_Light_Fit.png?checksum=f2a1c5a2-1292-4b7e-b5bc-cfe2f12fc97f?tr=n-logo_80" group-title="Bambini",DeAKids [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11186c855368b14808a44caa148954db:779ac5495ac22c6458b6f705c46b9aef
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276812_f~0_g~1_s~b19cc079-8877-4c9c-ae04-b79a79ae5f02_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~53_x~4d6b72af22397992e34828a3849ce217/nowitlin2/Content/CMAF_CTR_H1/Live/channel(deakids)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.123" tvg-logo="" group-title="Documentari",History [UAZNAO]
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://guidatv.sky.it/logo/513history_Light_Fit.png?checksum=49ccc5de-9b3e-4cad-86f5-0960f921c901?tr=n-logo_80" group-title="Documentari",History [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11188c23784cc238e403a7ed90958795:a8a2fa68d6803452537b7862503f7b8b
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276824_s~31bfa3b2-bac3-44eb-8a68-4ade68440467_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~60_x~bf05acbfd14d99012f30263fd2f17d3322887bff2b9842851a9ae26edb273416/nowitlin2/Content/CMAF_CTR_H1/Live/channel(historychannel)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.124" tvg-logo="" group-title="Musica",MTV [UAZNAO]
+#EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="https://guidatv.sky.it/logo/763mtvhd_Light_Fit.png?checksum=a680f63a-0d64-4670-afb3-8671652356c2?tr=n-logo_80" group-title="Musica",MTV [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118e69d1a583898ef3362facf7964e8:d67dcac48e516e4c8b528d0e3fe23d24
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276823_s~bf5e5482-120d-45b2-953a-a48731972bf1_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~49_x~7f60b0702b372c663115d28cb15d25689681ed188fb70106866afdc30a5c409c/nowitlin2/Content/CMAF_CTR_H1/Live/channel(mtv)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.125" tvg-logo="" group-title="Bambini",Nick Jr [UAZNAO]
+#EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://guidatv.sky.it/logo/424nickjr_Light_Fit.png?checksum=888d7b93d39b68714e414336cdb7ebd5?tr=n-logo_80" group-title="Bambini",Nick Jr [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111857755be339a7e050fb2804479fde:9268ae2adb60f6648d1f49ec1c2f07ae
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276843_s~60c1648c-9e0d-4f39-8125-bcca592f9327_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~56_x~13dbe3660fd0bd08cf6b6b8baf5dd0a2ac8026ec6019de117343841ae6a1c4b0/nowitlin2/Content/CMAF_CTR_H1/Live/channel(nickjunior)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.126" tvg-logo="" group-title="Bambini",Nickelodeon [UAZNAO]
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://guidatv.sky.it/logo/320nickelodeon_Light_Fit.png?checksum=b3341710a4c547732edfcd2773b3be9b?tr=n-logo_80" group-title="Bambini",Nickelodeon [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11184d4970ee622e9acdc10016b4112e:d4e99a107ba1c7ab10e0494285bbacf7
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276824_f~0_g~1_s~f343939f-8fa3-4461-9469-156ccc01ac6d_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~57_x~d7d3ea7b94c1fd3f8e9495739073cbf1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(nickelodeon)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.127" tvg-logo="" group-title="Altro",Sky Adventure [UAZNAO]
+#EXTINF:-1 tvg-id="sky.adventure.it" tvg-logo="https://guidatv.sky.it/logo/962skyadventure_Light_Fit.png?checksum=7454eb33-b386-4e89-8872-8c32b2fbbc3f?tr=n-logo_80" group-title="Altro",Sky Adventure [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118064bcea5a4106fb2267f279f2649:279a852121432f14ea2e7c5d15401238
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276828_s~62997acb-67ce-4148-9a44-f500311e8e98_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~58_x~d9db25795ffccd90fff5295122270329d7d06077c6eb3bbb896c4e9802558ed5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyadventure)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.128" tvg-logo="" group-title="Documentari",Sky Arte [UAZNAO]
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://guidatv.sky.it/logo/74skyarte_Light_Fit.png?checksum=e7a7ddb0-6afa-42c8-93d8-b2a4f5c726e1?tr=n-logo_80" group-title="Documentari",Sky Arte [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11182a6b78e28a52ffe2608ab6c0f56a:39454b9b64b2d2a1dfa0788c9087418a
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276813_s~52654300-15c2-48d6-a77a-51749ac42e38_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~53_x~4a9a1b95462d9dd5ccef7d5be76ebe2d34d286fc6a19a0faacbfd2ab03bbf327/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyarte)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.129" tvg-logo="" group-title="Film - Serie TV",Sky Atlantic [UAZNAO]
+#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://guidatv.sky.it/logo/226skyatlantic_Light_Fit.png?checksum=55e0b430-8ac2-482a-80eb-d79e3678ea49?tr=n-logo_80" group-title="Film - Serie TV",Sky Atlantic [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118914ad5e1ad67545475ca7460da2d:4ded218f45e7a9d9536f84fd940da992
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300388_f~0_g~1_s~e4a2e3cc-4bc5-40a9-bc80-a35d68c4896e_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~57_x~15c90e1740fa19f652f363f8b720591d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyatlantic)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.130" tvg-logo="" group-title="Film - Serie TV",Sky Cinema Action [UAZNAO]
+#EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://guidatv.sky.it/logo/206skycinemaaction_Light_Fit.png?checksum=18c61378-c967-4828-a506-4fbd8cf6bc1c?tr=n-logo_80" group-title="Film - Serie TV",Sky Cinema Action [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11181097e8f05137f602bc551a2e32dd:8956d92daf04eba02dd3fd224dc99f6b
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300363_f~0_g~1_s~1753e7bc-81ac-4381-8dca-92453d2f5804_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~61_x~2428f2c6ee8070bcdc7965766b7211ce/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemaaction)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.131" tvg-logo="" group-title="Film - Serie TV",Sky Cinema Collection [UAZNAO]
+#EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://guidatv.sky.it/logo/204transformerscollection_Light_Fit.png?tr=n-logo_80" group-title="Film - Serie TV",Sky Cinema Collection [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118808d7489d73becd823a9d5ca62cd:4a572db0c2ed222c696c8682d952fc98
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300385_f~0_g~1_s~fde117b6-2649-48ff-9eff-8b848c510ec9_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~65_x~a893eee3992bc6150160dabcd49b8bd9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemacollection)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.132" tvg-logo="" group-title="Film - Serie TV",Sky Cinema Comedy [UAZNAO]
+#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://guidatv.sky.it/logo/30skycinemacomedy_Light_Fit.png?checksum=a34e113d-5437-4753-b036-5969ea84dfe0?tr=n-logo_80" group-title="Film - Serie TV",Sky Cinema Comedy [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111836971e38304c36c93efbf3fce921:9dcd57529ba3bce36cb46c384905a989
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276825_f~0_g~1_s~698995ab-e13f-4114-a2dd-baca91c17163_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~61_x~be1401db9f0e5573f2aba81b964c050a/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemacomedy)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.133" tvg-logo="" group-title="Film - Serie TV",Sky Cinema Drama [UAZNAO]
+#EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://guidatv.sky.it/logo/769skycinemadrama_Light_Fit.png?checksum=2fc851a5-dcfd-4c55-b42e-60e0ea35642c?tr=n-logo_80" group-title="Film - Serie TV",Sky Cinema Drama [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11187f0771eface703670c2e03f25c60:f1a4f55221438edfad33f71ce8d11e53
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276821_s~1da9ca14-fd6b-4cb2-8400-9474565a2028_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~60_x~b6b721f63df5f6e5abd584577dd1be84895cd8b51e879e102f1bd1eae9122727/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemadrama)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.134" tvg-logo="" group-title="Film - Serie TV",Sky Cinema Due [UAZNAO]
+#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://guidatv.sky.it/logo/564skycinemadue_Light_Fit.png?checksum=fd8d97e4-67cc-4dd9-917e-c673d878cc6b?tr=n-logo_80" group-title="Film - Serie TV",Sky Cinema Due [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118b6884f019a3b4c9657a368e7e6d4:f567d90f134739c815029b7df7de8648
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300314_f~0_g~1_s~70946e44-119a-4fd8-b31a-06ec00abf4de_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~62_x~60e7c1e7e739f92d55ffea8c0abe79b4/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemastories)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.135" tvg-logo="" group-title="Film - Serie TV",Sky Cinema Illumination [UAZNAO]
+#EXTINF:-1 tvg-id="skycinemaillumination" tvg-logo="" group-title="Film - Serie TV",Sky Cinema Illumination [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111887fc73ab50630ac4fc9c0ad8fa27:2ca2feaf3771e485ceb4a10aded58542
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300331_f~0_g~1_s~dbe81872-c7f2-4758-8adb-9ce3d17ed01e_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~61_x~0056d3f1b08528932d392be6e7499f07/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemafamily)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.136" tvg-logo="" group-title="Film - Serie TV",Sky Cinema Romance [UAZNAO]
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://guidatv.sky.it/logo/231skycinemaromance_Light_Fit.png?checksum=29a51632-5782-41fc-9ece-7019fe0112e5?tr=n-logo_80" group-title="Film - Serie TV",Sky Cinema Romance [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118b308d7860b5a2cfc1353e087aa9b:2ed82203afcaa7c0b6f1a7d7810abf57
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778291325_f~0_g~1_s~23fc1806-26aa-4a01-8a0b-047e9b8eb11d_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~62_x~f1be6a4eb8cded4271cbce44e7715007/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemaromance)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.137" tvg-logo="" group-title="Film - Serie TV",Sky Cinema Suspense [UAZNAO]
+#EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://guidatv.sky.it/logo/47skycinemasuspense_Light_Fit.png?checksum=9ee51b22-c9fe-49f3-a7d1-2a22e1948a4d?tr=n-logo_80" group-title="Film - Serie TV",Sky Cinema Suspense [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118d5ee90c8f505e7e5ce932720d4b0:a79b8f7c5b2f40889afcc2deb46d3728
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300291_f~0_g~1_s~67a12201-ecbf-43d4-8272-a0e2e05dde17_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~63_x~a68fb167d86381b0758e6509a6c6a3bf/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemasuspense)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.138" tvg-logo="" group-title="Film - Serie TV",Sky Cinema Uno [UAZNAO]
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://guidatv.sky.it/logo/202skycinemauno_Light_Fit.png?checksum=2945a0fc-4fd0-4f78-891d-b4b6e23e4ecf?tr=n-logo_80" group-title="Film - Serie TV",Sky Cinema Uno [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118d613d7d337497a29ce3351f879ad:61c626c1e25c65d9443312fce14ed679
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300383_f~0_g~1_s~b49396ee-8995-4656-a44f-9c5ea4721c5a_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~58_x~2e63018aa09be72130ff3c0eb2e8a594/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycinemauno)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.139" tvg-logo="" group-title="Altro",Sky Collection [UAZNAO]
+#EXTINF:-1 tvg-id="skycollection" tvg-logo="" group-title="Altro",Sky Collection [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111846ad1b8bb11b3f11bf7f0f170701:2cffd969c3e289c667474fdacb23bc17
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276832_f~0_g~1_s~bad205cb-b28b-4ea0-81a5-9b93c25077f5_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~59_x~8d5abd485671aa699f9d9ac0e985301b/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycollection)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.140" tvg-logo="" group-title="Film - Serie TV",Sky Crime [UAZNAO]
+#EXTINF:-1 tvg-id="sky.crime.it" tvg-logo="https://guidatv.sky.it/logo/249skycrime_Light_Fit.png?checksum=7d65e0c6-d90b-42d1-a014-46ba4d06b16b?tr=n-logo_80" group-title="Film - Serie TV",Sky Crime [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11186bcffdc1c47dbeaaa7d557002197:c84de6e52919f9c47726e75e5788f6b9
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778261963_s~97db5e6b-0cfb-4e76-a7d1-b4175bdd0cb5_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~54_x~8d296238b3aedc35ff506454458588296c41d9b5c3d28fc2c79159e5c321d838/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skycrime)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.141" tvg-logo="" group-title="Documentari",Sky Documentaries [UAZNAO]
+#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://guidatv.sky.it/logo/697skydocumentaries_Light_Fit.png?checksum=53245dbe-0b73-4190-b492-376dc7d53d2d?tr=n-logo_80" group-title="Documentari",Sky Documentaries [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11183ce2812f8e6de76e9960791f373b:0b9a47e8dbd5bea92472cf8684a1bea7
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276823_f~0_g~1_s~546ca2ac-c887-400a-a1f9-55e409bb50dc_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~62_x~7a3674020ca2353c6de79f098d5feb67/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skydocumentaries)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.142" tvg-logo="" group-title="Altro",Sky Investigation [UAZNAO]
+#EXTINF:-1 tvg-id="sky.investigation.it" tvg-logo="https://guidatv.sky.it/logo/686skyinvestigation_Light_Fit.png?checksum=224897bb-44bb-41a3-9691-e19eacc670f0?tr=n-logo_80" group-title="Altro",Sky Investigation [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118372f0e5a5be838da4313ddcd13a7:fb22d7ff7b1988bc71d03d033e8f34de
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276840_s~4e32e150-177e-4afb-bda2-6c482de740a1_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~62_x~d68ec5e2727306a1caf2f912c71df914069ce1013e89cce6c53d721943670124/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyinvestigation)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.143" tvg-logo="" group-title="Documentari",Sky Nature [UAZNAO]
+#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://guidatv.sky.it/logo/695skynature_Light_Fit.png?checksum=6a2c90be-bac2-4622-af95-39ec6b75e3b4?tr=n-logo_80" group-title="Documentari",Sky Nature [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11188a583a6e01a1566d46ec707f5134:9b920f9b587e72c1edc914bff684c431
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276827_s~2361a8bc-b867-4bd8-8b87-5087261ff82a_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~55_x~bf9e233634437aa1b1159487f19caedb3b46a9bb6354975de2ec3129f373fe70/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skynature)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.144" tvg-logo="" group-title="Film - Serie TV",Sky Serie [UAZNAO]
+#EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://guidatv.sky.it/logo/684skyserie_Light_Fit.png?checksum=9fa612b4-52c6-4a22-9c98-40495a42475b?tr=n-logo_80" group-title="Film - Serie TV",Sky Serie [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11183c4ad35abfd2fa351e15be2751f3:34d5e7802af83376b7869674e2692a28
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276823_s~3bc7ec0d-5bab-4f52-985a-28b99b16e8d3_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~54_x~0c0ca1a4b36c8941ce01cb0660a81a698464b4fdd355900042a60a8a39b01b5b/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyserie)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.145" tvg-logo="" group-title="Sport",Sky Sport 24 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://iptvx.one/picons/sky-sport24-it.png" group-title="Sport",Sky Sport 24 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118b5e048c7175b6d9aa2dfc59f6527:ed6663451a181153b309ede6ff277667
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300372_f~0_g~1_s~3a7bbdb2-ce5c-4fdf-bf8a-44ddb910a0e9_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~56_x~6ece72a1aa2a02201143b5af2351cb42/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport24)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.146" tvg-logo="" group-title="Sport",Sky Sport 251 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport..251.it" tvg-logo="https://guidatv.sky.it/logo/917skysport_Light_Fit.png?checksum=4f061bab-25db-4c9b-8220-e560abc222b5?tr=n-logo_80" group-title="Sport",Sky Sport 251 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11181e7f856e3b9eb0a315ca42e8d281:96bd93740aa0b2b3b10d6881bb806d1e
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778285418_f~0_g~1_s~c4f830d4-19d8-4847-91f8-7924cda60414_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~57_x~3a3f0be461ad5e0790997b1d28ef5b64/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport251)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.147" tvg-logo="" group-title="Sport",Sky Sport 252 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport..252.it" tvg-logo="https://guidatv.sky.it/logo/951skysport_Light_Fit.png?tr=n-logo_80" group-title="Sport",Sky Sport 252 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118d145e562fe621718609536e2c92d:33654c2f6657e630328e2c52896e6d37
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276789_f~0_g~1_s~33d88bd3-e13f-4c2a-bfb2-db7a4ae20267_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~57_x~06a70bbac7bbdb00841db7d74d686baa/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport252)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.148" tvg-logo="" group-title="Sport",Sky Sport 253 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport..253.it" tvg-logo="https://guidatv.sky.it/logo/233233_Light_Fit.png?checksum=cde08272-c3a9-40f5-942d-0c32d01095d1?tr=n-logo_80" group-title="Sport",Sky Sport 253 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11183684f58c54e0f13e4968c616bc3b:f7d71eec2e88d6ff1ec927fef643f8b4
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276821_s~c6c925f0-bd58-4d6a-9458-cb6e6012ae1d_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~57_x~aed1ebf25067ca65fc11b838eb5dd7ce2c5188a848d1f36fbaf91a9feaf6a0fc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport253)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.149" tvg-logo="" group-title="Sport",Sky Sport 254 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://guidatv.sky.it/logo/234skysport_Light_Fit.png?tr=n-logo_80" group-title="Sport",Sky Sport 254 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118391dd81865c3f72d3bb51c50b129:4d1fdb4fc20d0bbe2cbadc793b1084bf
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276827_s~4a10c0e5-26e2-4945-be6b-f7a90a895901_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~57_x~2f5a176a4cd52481af5a4a03b7f5e2bdc996bab0df5a981a0fba5bc68b9ba035/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport254)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.150" tvg-logo="" group-title="Sport",Sky Sport 255 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport..255.it" tvg-logo="https://guidatv.sky.it/logo/910skysport_Light_Fit.png?checksum=1486554b-09f4-4727-921c-4c9b1655b59e?tr=n-logo_80" group-title="Sport",Sky Sport 255 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118c2fc51580bcff0571f963bc3d5bd:985cf2b5fb1845a358a6e9cc48786a44
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276797_s~7c57442f-a2a4-419c-b46b-962b52c9f6d7_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~57_x~93736a9e44965cd72fb8e36007093d50096a3974b8862e0551d7f45a62a5c917/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport255)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.151" tvg-logo="" group-title="Sport",Sky Sport 256 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="https://guidatv.sky.it/logo/912skysport_Light_Fit.png?checksum=1c38728d-1774-4c93-a75f-622e062b1c29?tr=n-logo_80" group-title="Sport",Sky Sport 256 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11186c42fd511dc12c3da4122b453f6b:d56ad21c13dc64fdb2430fe49469bd25
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276827_s~6e47374e-5682-4747-a2d2-1c67681e484f_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~57_x~45852227d4ed1270a3f2ff75f8551e7c604ea906258e590b0310b9f4dc617e6c/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport256)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.152" tvg-logo="" group-title="Sport",Sky Sport 257 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport..257.it" tvg-logo="https://guidatv.sky.it/logo/775skysport_Light_Fit.png?checksum=5cd2e53d-e3b3-4921-9391-de3e72d6fb81?tr=n-logo_80" group-title="Sport",Sky Sport 257 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111836734e88acf2a270fc8e3f7d3578:61cc7fc2256407a650256c4db619607f
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276837_s~722c9346-d248-4902-8852-2182ddded0f2_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~57_x~046590be86796f3a0f78d63137d43417c5dcb4f96951046d45bb9185709cd0e1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport257)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.153" tvg-logo="" group-title="Sport",Sky Sport 258 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport..258.it" tvg-logo="" group-title="Sport",Sky Sport 258 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118ede4ff3dc14b1858318fa927d58e:20d08f5946e156f8e8d4b292e2f113de
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1778276827_s~c3e0a96c-961f-4a86-ac4d-719666c5058c_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_l~57_x~48c96ff196c346d730b2f1f2d2d995fcbcfa9ac33a486956a91a301d8211e7d8/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport258)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.154" tvg-logo="" group-title="Sport",Sky Sport 259 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport..259.it" tvg-logo="" group-title="Sport",Sky Sport 259 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11186aab512affb67a780b197af15333:47b17943c1b07d6003b7187d149ee825
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276828_f~0_g~1_s~3dd3897f-510a-4a4a-8425-00b18d279109_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~57_x~abbbf206289e44e681e1bc2d67cf99fc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport259)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.155" tvg-logo="" group-title="Sport",Sky Sport Arena [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://guidatv.sky.it/logo/24skysportarena_Light_Fit.png?checksum=7e3a6085-0021-4fc2-a4ca-ce8059d18ffb?tr=n-logo_80" group-title="Sport",Sky Sport Arena [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118cd980a96babac8705f8213671049:11f8242419118ba9315a5ea6a11eaf33
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300367_f~0_g~1_s~e92650a3-0164-42f8-a80a-371f5214bead_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~59_x~796f6d3de926857e64789db96794601f/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportarena)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.156" tvg-logo="" group-title="Sport",Sky Sport Basket [UAZNAO]
+#EXTINF:-1 tvg-id="skysportbasket" tvg-logo="" group-title="Sport",Sky Sport Basket [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111862214aca32be3144b81e23ee7b97:931d73f5f8e1cc5c4ff8d242213a8694
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300408_f~0_g~1_s~55681a3d-0079-49ed-952c-932671c4e36d_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~60_x~4325610a7b543ea5bb9b2db5e468ebaf/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportbasket)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.157" tvg-logo="" group-title="Sport",Sky Sport Calcio [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://guidatv.sky.it/logo/209skysportcalcio_Light_Fit.png?checksum=f6193dc9-1bcd-4609-a0a3-e13d181464d7?tr=n-logo_80" group-title="Sport",Sky Sport Calcio [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11189447fcc21aec648fa3b105aa666e:586449edd352aa394e3a31cfcaf1bd1a
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300425_f~0_g~1_s~9f4b23cf-6269-417b-9849-f2e328fdda6e_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~60_x~1d0e4000223f2945a37d7323215c61ab/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.158" tvg-logo="" group-title="Sport",Sky Sport F1 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://guidatv.sky.it/logo/478skysportf1_Light_Fit.png?checksum=745d5eea-e5ec-41d8-b7d1-3d053bb3aae0?tr=n-logo_80" group-title="Sport",Sky Sport F1 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118e78b7e486c21dc59fd57420c14ea:ec5151d5f9ab4afc6a28a70ff5b934e7
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300493_f~0_g~1_s~44691d79-7f07-4f84-93e2-5b8115dff167_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~56_x~03d02ea5af98013db7183e6e84051dec/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.159" tvg-logo="" group-title="Sport",Sky Sport Golf [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://guidatv.sky.it/logo/768skysportgolf_Light_Fit.png?checksum=ff599287-1197-42d6-928c-9ea48a970118?tr=n-logo_80" group-title="Sport",Sky Sport Golf [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118364570d3f55bc86a23913e3bde97:b0e92072c31c12304984ca80f9e2dd10
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300446_f~0_g~1_s~099abab8-1993-48fd-9f7d-74900abece57_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~58_x~03fc93d6d141c8ef1190ecd971a51baf/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportgolf)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.160" tvg-logo="" group-title="Sport",Sky Sport Legend [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.legend.it" tvg-logo="https://guidatv.sky.it/logo/578skysportlegend_Light_Fit.png?checksum=4887b8c8-ab51-46c9-890e-2367de4fa38e?tr=n-logo_80" group-title="Sport",Sky Sport Legend [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111855526563a80e43574ca7493a1fce:9d422e464fb08de23130b390ba8a8b25
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300463_f~0_g~1_s~0627d2f8-ebc7-4c9d-93e7-ea22c6f64a14_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~60_x~d111f5f5bbe27710ab14576f20513597/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportlegend)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.161" tvg-logo="" group-title="Sport",Sky Sport Max [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://guidatv.sky.it/logo/248skysportmax_Light_Fit.png?checksum=3e774f96-84ba-46f0-a7a8-8e21a825028d?tr=n-logo_80" group-title="Sport",Sky Sport Max [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118925820003b72988fe2d3c500ce58:6feac650a3747c78062072903de836e4
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778301340_f~0_g~1_s~74a21679-25dc-461a-9aa4-3509d5b593fa_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~57_x~ea3649abe343121f0404116f3b9d90cb/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmax)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.162" tvg-logo="" group-title="Sport",Sky Sport Mix [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.mix.it" tvg-logo="https://guidatv.sky.it/logo/579skysportmix_Light_Fit.png?checksum=68d457d4-ae25-40ec-8198-2be42327d82d?tr=n-logo_80" group-title="Sport",Sky Sport Mix [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118b1ad2c12768dacc13a81d1ee8107:92512e3c907527ff81678d08ace9c45d
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300433_f~0_g~1_s~23869c92-f1c3-4ce6-aa2c-2083d81b1bc0_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~57_x~67ffc079df0315c2a2cd2c8692d94dd4/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmix)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.163" tvg-logo="" group-title="Sport",Sky Sport MotoGP [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://guidatv.sky.it/logo/483skysportmotogp_Light_Fit.png?checksum=33c38de9-c5a3-4844-a558-6cac9a44b0ef?tr=n-logo_80" group-title="Sport",Sky Sport MotoGP [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11183e764b9543502f2a56f57a0e4f18:6c10a382f4715359f0c0ec9a2751c3da
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300428_f~0_g~1_s~73995cf7-2316-4d07-9656-f484e86a1cc8_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~60_x~e58e79e4f02eceaa54d5627aedb2004b/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.164" tvg-logo="" group-title="Sport",Sky Sport Tennis [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://guidatv.sky.it/logo/559skysporttennis_Light_Fit.png?checksum=94c5f900-a8d2-497c-8fec-a333a9ad879a?tr=n-logo_80" group-title="Sport",Sky Sport Tennis [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11180ff7bd5680d534cef8c33110b636:236d0731787ff055c604e7eac27dcadb
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300428_f~0_g~1_s~3dddca87-79a4-4373-a82a-0db048d851b6_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~60_x~205c670ea443af95c546cff3c8a27693/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.165" tvg-logo="" group-title="Sport",Sky Sport Uno [UAZNAO]
+#EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://guidatv.sky.it/logo/2900skysportuno_Light_Fit.png?checksum=15c1db3a-056f-4304-9c65-c231ff449ded?tr=n-logo_80" group-title="Sport",Sky Sport Uno [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11186d53086ecc9e22e3b6af3ff9aebc:1e42dadbd0075fd69b6975fd8c9f8f7b
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778300449_f~0_g~1_s~91e05be4-98e7-4ebe-8f95-24b78d743af4_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~57_x~773f776f5c3a260286d7e20f4eb7f1c3/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.166" tvg-logo="" group-title="News",Sky TG24 [UAZNAO]
+#EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://guidatv.sky.it/logo/521skytg24_Light_Fit.png?checksum=da35dbfe-8079-4ba1-adcb-fa9e2cfe3392?tr=n-logo_80" group-title="News",Sky TG24 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118a48358c744f5075ddd54441c9207:c0cd1f001bba58b1261d12ff04e4d5bd
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778276861_f~0_g~1_s~921fa4d2-ac81-46f5-99a3-cb0ef15bc825_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~50_x~fd2026bb8b8a4cffda3e5ec7aa72a803/nowitlin2/Content/CMAF_CTR_H1/Live/channel(tg24)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.167" tvg-logo="" group-title="Altro",Sky Uno [UAZNAO]
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://guidatv.sky.it/logo/477skyuno_Light_Fit.png?checksum=cd37fd56-01f7-443e-a62d-ff99bf4c1b1c?tr=n-logo_80" group-title="Altro",Sky Uno [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=111882bdcd7601f4b24d2d973caf9edf:d5a964d3afa7a11cf32d08de1d54b701
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1778305104_f~0_g~1_s~7b7699bb-8ad7-47cc-8715-9b0742051689_u~b9fbcd3e402648cf113f98fc35a72a86d7f3acca5f930c66536fcb2ff90ec301821ad542153467fff4602ae5e1340be4_k~A_l~52_x~a444df63f00d9c83c484af0797161463/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skyuno)/master_2hr-all.mpd
-#EXTINF:-1 tvg-id="uaznao.168" tvg-logo="" group-title="Sport",Dazn [WARP] [UAZNAO]
+#EXTINF:-1 tvg-id="dazn" tvg-logo="" group-title="Sport",Dazn [WARP] [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eyI2MTY0YTBhYmFhN2M1M2M2ODc1ZmExZTdmZTBiYjQ2MyI6IjI3MTUxMGQzZTEyNTk1NzFkY2M1NjhhMjMyZTM5N2ViIn0%3D
 https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web&headers=eyJkYXpuLXRva2VuIjoic3QlM0QxNzc3ODk0MTA5fmV4cCUzRDE3Nzc5ODA1MDl%2BYWNsJTNELyUyQX5pZCUzRDBjZjUwNzQ2YzJiN35kYXRhJTNEcHJvdG8lM0RkYXNoJTIzY291bnRyeSUzRGl0JTIzYXNuJTNEMTMzMzUlMjNwYXRoJTNEMXMlMkMyZCUyM2hhc2hwJTNENzE0NmQzZGVhNzAwNDRmOGQxOTE0OTRjYmFmOWIxNzA1MzkwNTk1NTFhODAxNDU4ZjdlOTE5M2RkZWY3ODM1ZCUyM2hhc2h1YSUzRDI4NmZjN2UzMmI3YjY3ZDBiYWEyYjU0YWNhZTliMTBjMTU2MTMxY2VlZWZmNDk0ZDUwNjg4OTkzMTY5ZTJjMGV%2BaG1hYyUzRDc2YTRkOTc1OTVlYTI2OTRlOGUwNzBjZmRiOWUwODNlMGJkNmZjZWI1Yzc2YzAwNWRmMGQwY2QxZjk0ODA1NWEiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3LmRhem4uY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmRhem4uY29tIn0
-#EXTINF:-1 tvg-id="uaznao.169" tvg-logo="" group-title="Sport",Eurosport 1 [Italiano] [UAZNAO]
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-logo="" group-title="Sport",Eurosport 1 [Italiano] [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=610bcda111c74c97b0792b059630a10b:b9817853538459b371f3fb56a267d55c
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
-#EXTINF:-1 tvg-id="uaznao.170" tvg-logo="" group-title="Sport",Eurosport 2 [Italiano] [UAZNAO]
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-logo="" group-title="Sport",Eurosport 2 [Italiano] [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=700b3619ccfb4c0cbd2bb26832e643cf:b2c7c4b6f3375b8e07c42f95668dadeb
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
-#EXTINF:-1 tvg-id="uaznao.171" tvg-logo="" group-title="Sport",Eurosport 3 [Italiano] [UAZNAO]
+#EXTINF:-1 tvg-id="eurosport3" tvg-logo="" group-title="Sport",Eurosport 3 [Italiano] [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fd7709359db4103ae799d5f8d79ae0b:6d39ec4186bed97705274a6c78c69d94
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd
-#EXTINF:-1 tvg-id="uaznao.172" tvg-logo="" group-title="Sport",Eurosport 4 [Italiano] [UAZNAO]
+#EXTINF:-1 tvg-id="eurosport4" tvg-logo="" group-title="Sport",Eurosport 4 [Italiano] [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=026e140de784409b9c437fcc0212977c:6f5ad01fa42deede99ae7c6ccf5215d7
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd
-#EXTINF:-1 tvg-id="uaznao.173" tvg-logo="" group-title="Sport",Eurosport 5 [Italiano] [UAZNAO]
+#EXTINF:-1 tvg-id="eurosport5" tvg-logo="" group-title="Sport",Eurosport 5 [Italiano] [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6844bc96d46e4677a322cd4838705489:6b483aa12ba85bad2e84efb4bc6a9893
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd
-#EXTINF:-1 tvg-id="uaznao.174" tvg-logo="" group-title="Sport",Eurosport 6 [Italiano] [UAZNAO]
+#EXTINF:-1 tvg-id="eurosport6" tvg-logo="" group-title="Sport",Eurosport 6 [Italiano] [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69982165690d4fef90d3f4d4e245fc27:49711e568736d9ae3ea7993571c9bcce
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
-#EXTINF:-1 tvg-id="uaznao.201" tvg-logo="" group-title="Altro",SPOTV2 [UAZNAO]
+#EXTINF:-1 tvg-id="spotv2" tvg-logo="" group-title="Altro",SPOTV2 [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 https://global-cdn2.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-#EXTINF:-1 tvg-id="uaznao.224" tvg-logo="" group-title="Rai",Rai Movie [UAZNAO]
+#EXTINF:-1 tvg-id="raimovie.it" tvg-logo="" group-title="Rai",Rai Movie [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raimovie1-dash-live.akamaized.net/dash/live/663983/raimovie1/manifest.mpd
-#EXTINF:-1 tvg-id="uaznao.243" tvg-logo="" group-title="Rai",Rai Yoyo [UAZNAO]
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="" group-title="Rai",Rai Yoyo [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raiyoyo1-dash-live.akamaied.net/dash/live/663949/raiyoyo1/manifest.mpd
-#EXTINF:-1 tvg-id="uaznao.244" tvg-logo="" group-title="Bambini",Frisbee [UAZNAO]
+#EXTINF:-1 tvg-id="frisbee.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/d4dd0eaf9407c46b093279f96ca8c3db.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV93PuO81gqESNrk60xp%2F29E8" group-title="Bambini",Frisbee [UAZNAO]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raiyoyo1-dash-live.akamaied.net/dash/live/663949/raiyoyo1/manifest.mpd
-#EXTINF:-1 tvg-id="zappr.lcn1" tvg-logo="https://channels.zappr.stream/rai1.svg" group-title="Rai",Rai 1 [ZAPPR]
+#EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://channels.zappr.stream/rai1.svg" group-title="Rai",Rai 1 [ZAPPR]
 https://netplus.zappr.stream/rai1.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn2" tvg-logo="https://channels.zappr.stream/rai2.svg" group-title="Rai",Rai 2 [ZAPPR]
+#EXTINF:-1 tvg-id="rai2.it" tvg-logo="https://channels.zappr.stream/rai2.svg" group-title="Rai",Rai 2 [ZAPPR]
 https://netplus.zappr.stream/rai2.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn103" tvg-logo="https://channels.zappr.stream/rai3.svg" group-title="Rai",Rai 3 [ZAPPR]
+#EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://channels.zappr.stream/rai3.svg" group-title="Rai",Rai 3 [ZAPPR]
 https://netplus.zappr.stream/rai3.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn4" tvg-logo="https://channels.zappr.stream/rete4.svg" group-title="Mediaset",Rete 4 [ZAPPR]
+#EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://channels.zappr.stream/rete4.svg" group-title="Mediaset",Rete 4 [ZAPPR]
 https://netplus.zappr.stream/rete4.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn5" tvg-logo="https://channels.zappr.stream/canale5.svg" group-title="Mediaset",Canale 5 [ZAPPR]
+#EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://channels.zappr.stream/canale5.svg" group-title="Mediaset",Canale 5 [ZAPPR]
 https://netplus.zappr.stream/canale5.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn6" tvg-logo="https://channels.zappr.stream/italia1.svg" group-title="Mediaset",Italia 1 [ZAPPR]
+#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://channels.zappr.stream/italia1.svg" group-title="Mediaset",Italia 1 [ZAPPR]
 https://netplus.zappr.stream/italia1.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn7" tvg-logo="https://channels.zappr.stream/la7.svg" group-title="Altro",LA7 [ZAPPR]
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://channels.zappr.stream/la7.svg" group-title="Altro",LA7 [ZAPPR]
 https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd
-#EXTINF:-1 tvg-id="zappr.lcn8" tvg-logo="https://channels.zappr.stream/tv8.svg" group-title="Altro",TV8 [ZAPPR]
+#EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://channels.zappr.stream/tv8.svg" group-title="Altro",TV8 [ZAPPR]
 https://uvotv.zappr.stream/269.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn9" tvg-logo="https://channels.zappr.stream/nove.svg" group-title="Altro",NOVE [ZAPPR]
+#EXTINF:-1 tvg-id="nove.it" tvg-logo="https://channels.zappr.stream/nove.svg" group-title="Altro",NOVE [ZAPPR]
 https://d3pkcyie9gav9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrrq3jtymmzoc/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn20" tvg-logo="https://channels.zappr.stream/20.svg" group-title="Mediaset",20 Mediaset [ZAPPR]
+#EXTINF:-1 tvg-id="20mediasethd.it" tvg-logo="https://channels.zappr.stream/20.svg" group-title="Mediaset",20 Mediaset [ZAPPR]
 https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn21" tvg-logo="https://channels.zappr.stream/rai4.svg" group-title="Rai",Rai 4 [ZAPPR]
+#EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://channels.zappr.stream/rai4.svg" group-title="Rai",Rai 4 [ZAPPR]
 https://raiquattro2-live.akamaized.net/hls/live/598316/raiquattro2/raiquattro2/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn22" tvg-logo="https://channels.zappr.stream/iris.svg" group-title="Mediaset",Iris [ZAPPR]
+#EXTINF:-1 tvg-id="iris.it" tvg-logo="https://channels.zappr.stream/iris.svg" group-title="Mediaset",Iris [ZAPPR]
 https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn23" tvg-logo="https://channels.zappr.stream/rai5.svg" group-title="Rai",Rai 5 [ZAPPR]
+#EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://channels.zappr.stream/rai5.svg" group-title="Rai",Rai 5 [ZAPPR]
 https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/raicinque1/playlist_ma.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn24" tvg-logo="https://channels.zappr.stream/raimovie.svg" group-title="Rai",Rai Movie [ZAPPR]
+#EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://channels.zappr.stream/raimovie.svg" group-title="Rai",Rai Movie [ZAPPR]
 https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie1/playlist_ma.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn25" tvg-logo="https://channels.zappr.stream/raipremium.svg" group-title="Rai",Rai Premium [ZAPPR]
+#EXTINF:-1 tvg-id="raipremium.it" tvg-logo="https://channels.zappr.stream/raipremium.svg" group-title="Rai",Rai Premium [ZAPPR]
 https://raipremium1-live.akamaized.net/hls/live/598328/raipremium1/raipremium1/playlist_ma.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn26" tvg-logo="https://channels.zappr.stream/cielo.svg" group-title="Altro",Cielo [ZAPPR]
+#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://channels.zappr.stream/cielo.svg" group-title="Altro",Cielo [ZAPPR]
 https://uvotv.zappr.stream/281.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn27" tvg-logo="https://channels.zappr.stream/twentyseven.svg" group-title="Mediaset",TwentySeven [ZAPPR]
+#EXTINF:-1 tvg-id="twentyseven.it" tvg-logo="https://channels.zappr.stream/twentyseven.svg" group-title="Mediaset",TwentySeven [ZAPPR]
 https://live02-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn28" tvg-logo="https://channels.zappr.stream/tv2000.svg" group-title="Altro",TV2000 [ZAPPR]
+#EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://channels.zappr.stream/tv2000.svg" group-title="Altro",TV2000 [ZAPPR]
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn29" tvg-logo="https://channels.zappr.stream/la7cinema.svg" group-title="Film - Serie TV",LA7 Cinema [ZAPPR]
+#EXTINF:-1 tvg-id="la7.cinema.it" tvg-logo="https://channels.zappr.stream/la7cinema.svg" group-title="Film - Serie TV",LA7 Cinema [ZAPPR]
 https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
-#EXTINF:-1 tvg-id="zappr.lcn30" tvg-logo="https://channels.zappr.stream/la5.svg" group-title="Altro",La5 [ZAPPR]
+#EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://channels.zappr.stream/la5.svg" group-title="Altro",La5 [ZAPPR]
 https://live02-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn31" tvg-logo="https://channels.zappr.stream/realtime.svg" group-title="Altro",Real Time [ZAPPR]
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://channels.zappr.stream/realtime.svg" group-title="Altro",Real Time [ZAPPR]
 https://d2op4s24rubfe0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up3xdjecl66jn/out/v1/54acbe71ddae4c9986c03fad1352bc84/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn32" tvg-logo="https://channels.zappr.stream/qvc.svg" group-title="Altro",QVC [ZAPPR]
+#EXTINF:-1 tvg-id="qvc.it" tvg-logo="https://channels.zappr.stream/qvc.svg" group-title="Altro",QVC [ZAPPR]
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn33" tvg-logo="https://channels.zappr.stream/foodnetwork.svg" group-title="Altro",Food Network [ZAPPR]
+#EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://channels.zappr.stream/foodnetwork.svg" group-title="Altro",Food Network [ZAPPR]
 https://d9kc4bu8iry3b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x4si0bflc4gq7/out/v1/dcecf7d9fd2b49c59e85a65016ddc255/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn34" tvg-logo="https://channels.zappr.stream/cine34.svg" group-title="Altro",Cine34 [ZAPPR]
+#EXTINF:-1 tvg-id="cine34.it" tvg-logo="https://channels.zappr.stream/cine34.svg" group-title="Altro",Cine34 [ZAPPR]
 https://uvotv.zappr.stream/92.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn35" tvg-logo="https://channels.zappr.stream/focus.svg" group-title="Mediaset",Focus [ZAPPR]
+#EXTINF:-1 tvg-id="focus.it" tvg-logo="https://channels.zappr.stream/focus.svg" group-title="Mediaset",Focus [ZAPPR]
 https://uvotv.zappr.stream/89.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn36" tvg-logo="https://channels.zappr.stream/rtl.svg" group-title="Musica",RTL 102.5 [ZAPPR]
+#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://channels.zappr.stream/rtl.svg" group-title="Musica",RTL 102.5 [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn37" tvg-logo="https://channels.zappr.stream/discovery.svg" group-title="Documentari",Discovery [ZAPPR]
+#EXTINF:-1 tvg-id="discovery.it" tvg-logo="https://channels.zappr.stream/discovery.svg" group-title="Documentari",Discovery [ZAPPR]
 https://d3a5c87efixjp8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-94vzyl58b7u8n/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn38" tvg-logo="https://channels.zappr.stream/giallo.svg" group-title="Altro",Giallo [ZAPPR]
+#EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://channels.zappr.stream/giallo.svg" group-title="Altro",Giallo [ZAPPR]
 https://d2iz84wnbtnuey.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-32xgu2ku0wsk9/out/v1/8a939414e62c460a9ccab7b699ed1106/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn39" tvg-logo="https://channels.zappr.stream/topcrime.svg" group-title="Mediaset",Top Crime [ZAPPR]
+#EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://channels.zappr.stream/topcrime.svg" group-title="Mediaset",Top Crime [ZAPPR]
 https://uvotv.zappr.stream/86.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn40" tvg-logo="https://channels.zappr.stream/boing.svg" group-title="Bambini",Boing [ZAPPR]
+#EXTINF:-1 tvg-id="boing.it" tvg-logo="https://channels.zappr.stream/boing.svg" group-title="Bambini",Boing [ZAPPR]
 https://feapi.turner.streamity.com/api/v1/Config/getConfig?platformId=ae56bf6a-c2b4-4b66-8330-19283f646d7e
-#EXTINF:-1 tvg-id="zappr.lcn41" tvg-logo="https://channels.zappr.stream/k2.svg" group-title="Bambini",K2 [ZAPPR]
+#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://channels.zappr.stream/k2.svg" group-title="Bambini",K2 [ZAPPR]
 https://alwaysdata-api.zappr.stream/k2.mpd?clearkeyPlayer.maxQuality=720
-#EXTINF:-1 tvg-id="zappr.lcn42" tvg-logo="https://channels.zappr.stream/raigulp.svg" group-title="Rai",Rai Gulp [ZAPPR]
+#EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://channels.zappr.stream/raigulp.svg" group-title="Rai",Rai Gulp [ZAPPR]
 https://rai.zappr.stream/raigulp.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn43" tvg-logo="https://channels.zappr.stream/raiyoyo.svg" group-title="Rai",Rai Yoyo [ZAPPR]
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://channels.zappr.stream/raiyoyo.svg" group-title="Rai",Rai Yoyo [ZAPPR]
 https://raiyoyo1-live.akamaized.net/hls/live/598330/raiyoyo1/raiyoyo1/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn44" tvg-logo="https://channels.zappr.stream/frisbee" group-title="Bambini",Frisbee [ZAPPR]
+#EXTINF:-1 tvg-id="frisbee.it" tvg-logo="https://channels.zappr.stream/frisbee" group-title="Bambini",Frisbee [ZAPPR]
 https://alwaysdata-api.zappr.stream/frisbee.mpd?clearkeyPlayer.maxQuality=720
-#EXTINF:-1 tvg-id="zappr.lcn45" tvg-logo="https://channels.zappr.stream/boingplus.svg" group-title="Bambini",Boing Plus [ZAPPR]
+#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://channels.zappr.stream/boingplus.svg" group-title="Bambini",Boing Plus [ZAPPR]
 https://uvotv.zappr.stream/101.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn46" tvg-logo="https://channels.zappr.stream/cartoonito.svg" group-title="Bambini",Cartoonito [ZAPPR]
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-logo="https://channels.zappr.stream/cartoonito.svg" group-title="Bambini",Cartoonito [ZAPPR]
 https://feapi.turner.streamity.com/api/v1/Config/getConfig?platformId=95e33995-d7ed-44cb-be3b-97bc6df93977
-#EXTINF:-1 tvg-id="zappr.lcn47" tvg-logo="https://channels.zappr.stream/super.svg" group-title="Bambini",Super! [ZAPPR]
+#EXTINF:-1 tvg-id="super!.it" tvg-logo="https://channels.zappr.stream/super.svg" group-title="Bambini",Super! [ZAPPR]
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn48" tvg-logo="https://channels.zappr.stream/rainews24.svg" group-title="Rai",Rai News 24 [ZAPPR]
+#EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://channels.zappr.stream/rainews24.svg" group-title="Rai",Rai News 24 [ZAPPR]
 https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/ABCD/Rai/RaiNews24_IT/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn49" tvg-logo="https://channels.zappr.stream/italia2.svg" group-title="Mediaset",Italia 2 [ZAPPR]
+#EXTINF:-1 tvg-id="italia.2.it" tvg-logo="https://channels.zappr.stream/italia2.svg" group-title="Mediaset",Italia 2 [ZAPPR]
 https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn50" tvg-logo="https://channels.zappr.stream/skytg24.svg" group-title="News",Sky TG24 [ZAPPR]
+#EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://channels.zappr.stream/skytg24.svg" group-title="News",Sky TG24 [ZAPPR]
 https://uvotv.zappr.stream/293.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn51" tvg-logo="https://channels.zappr.stream/tgcom24.svg" group-title="News",TGcom24 [ZAPPR]
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://channels.zappr.stream/tgcom24.svg" group-title="News",TGcom24 [ZAPPR]
 https://live02-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn52" tvg-logo="https://channels.zappr.stream/dmax.svg" group-title="Altro",DMAX [ZAPPR]
+#EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://channels.zappr.stream/dmax.svg" group-title="Altro",DMAX [ZAPPR]
 https://d24suwc4j2wvyy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-09ap0j3u2xm1u/out/v1/1ef9705b7c534751889b6e01bb032f80/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn53" tvg-logo="https://channels.zappr.stream/casaitalia53.svg" group-title="Altro",Casa Italia 53 [ZAPPR]
+#EXTINF:-1 tvg-id="casaitalia53" tvg-logo="https://channels.zappr.stream/casaitalia53.svg" group-title="Altro",Casa Italia 53 [ZAPPR]
 https://liveac915ha.streamcloud.it/channel09/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn54" tvg-logo="https://channels.zappr.stream/raistoria.svg" group-title="Rai",Rai Storia [ZAPPR]
+#EXTINF:-1 tvg-id="raistoria.it" tvg-logo="https://channels.zappr.stream/raistoria.svg" group-title="Rai",Rai Storia [ZAPPR]
 https://netplus.zappr.stream/raistoria.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn55" tvg-logo="https://channels.zappr.stream/mediasetextra.svg" group-title="Mediaset",Mediaset Extra [ZAPPR]
+#EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://channels.zappr.stream/mediasetextra.svg" group-title="Mediaset",Mediaset Extra [ZAPPR]
 https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn56" tvg-logo="https://channels.zappr.stream/hgtv.svg" group-title="Altro",HGTV - Home & Garden [ZAPPR]
+#EXTINF:-1 tvg-id="hgtvhomegarden" tvg-logo="https://channels.zappr.stream/hgtv.svg" group-title="Altro",HGTV - Home & Garden [ZAPPR]
 https://d21emhonubg8zy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yspg3gkuqw4f2/out/v1/063d830ad098456e8c76bd198dea0122/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn57" tvg-logo="https://channels.zappr.stream/raiscuola.svg" group-title="Rai",Rai Scuola [ZAPPR]
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-logo="https://channels.zappr.stream/raiscuola.svg" group-title="Rai",Rai Scuola [ZAPPR]
 https://netplus.zappr.stream/raiscuola.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn58" tvg-logo="https://channels.zappr.stream/raisport.svg" group-title="Rai",Rai Sport [ZAPPR]
+#EXTINF:-1 tvg-id="raisport.it" tvg-logo="https://channels.zappr.stream/raisport.svg" group-title="Rai",Rai Sport [ZAPPR]
 https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/playlist_mo_1800-5000.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn59" tvg-logo="https://channels.zappr.stream/discoveryturbo.svg" group-title="Documentari",Discovery Turbo [ZAPPR]
+#EXTINF:-1 tvg-id="discoveryturbo.it" tvg-logo="https://channels.zappr.stream/discoveryturbo.svg" group-title="Documentari",Discovery Turbo [ZAPPR]
 https://d1m086gym5403i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9yn62b89f3m5l/out/v1/fa965f3d7abe46108988aed4fb3d0ee5/HLS_CMAF_DRM/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn60" tvg-logo="https://channels.zappr.stream/sportitalia.svg" group-title="Sport",Sportitalia [ZAPPR]
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://channels.zappr.stream/sportitalia.svg" group-title="Sport",Sportitalia [ZAPPR]
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn61" tvg-logo="https://channels.zappr.stream/il61.svg" group-title="Altro",il61 [ZAPPR]
+#EXTINF:-1 tvg-id="il61.it" tvg-logo="https://channels.zappr.stream/il61.svg" group-title="Altro",il61 [ZAPPR]
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn62" tvg-logo="https://channels.zappr.stream/donnatv" group-title="Altro",Donna TV [ZAPPR]
+#EXTINF:-1 tvg-id="donnatv.it" tvg-logo="https://channels.zappr.stream/donnatv" group-title="Altro",Donna TV [ZAPPR]
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn63" tvg-logo="https://channels.zappr.stream/canale63.svg" group-title="Altro",Canale 63 [ZAPPR]
+#EXTINF:-1 tvg-id="canale63" tvg-logo="https://channels.zappr.stream/canale63.svg" group-title="Altro",Canale 63 [ZAPPR]
 https://uvotv.zappr.stream/257.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn64" tvg-logo="https://channels.zappr.stream/supertennis.svg" group-title="Sport",SuperTennis [ZAPPR]
+#EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://channels.zappr.stream/supertennis.svg" group-title="Sport",SuperTennis [ZAPPR]
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn65" tvg-logo="https://channels.zappr.stream/almatv.svg" group-title="Altro",Alma TV [ZAPPR]
+#EXTINF:-1 tvg-id="almatv.it" tvg-logo="https://channels.zappr.stream/almatv.svg" group-title="Altro",Alma TV [ZAPPR]
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn66" tvg-logo="https://channels.zappr.stream/radio105.svg" group-title="Musica",Radio 105 TV [ZAPPR]
+#EXTINF:-1 tvg-id="radio105tv" tvg-logo="https://channels.zappr.stream/radio105.svg" group-title="Musica",Radio 105 TV [ZAPPR]
 https://live02-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn67" tvg-logo="https://channels.zappr.stream/r101.svg" group-title="Musica",R101 TV [ZAPPR]
+#EXTINF:-1 tvg-id="r101tv.it" tvg-logo="https://channels.zappr.stream/r101.svg" group-title="Musica",R101 TV [ZAPPR]
 https://live02-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn68" tvg-logo="https://channels.zappr.stream/bomchannel" group-title="Altro",BOM Channel [ZAPPR]
+#EXTINF:-1 tvg-id="bomchannel" tvg-logo="https://channels.zappr.stream/bomchannel" group-title="Altro",BOM Channel [ZAPPR]
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn69" tvg-logo="https://channels.zappr.stream/deejay.svg" group-title="Musica",Deejay TV [ZAPPR]
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://channels.zappr.stream/deejay.svg" group-title="Musica",Deejay TV [ZAPPR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn70" tvg-logo="https://channels.zappr.stream/radioitalia.svg" group-title="Musica",Radio Italia TV [ZAPPR]
+#EXTINF:-1 tvg-id="radio.italia.tv.hd.it" tvg-logo="https://channels.zappr.stream/radioitalia.svg" group-title="Musica",Radio Italia TV [ZAPPR]
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn71" tvg-logo="https://channels.zappr.stream/canaleitalia" group-title="Altro",Canale Italia [ZAPPR]
+#EXTINF:-1 tvg-id="canaleitalia" tvg-logo="https://channels.zappr.stream/canaleitalia" group-title="Altro",Canale Italia [ZAPPR]
 https://uvotv.zappr.stream/32.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn101" tvg-logo="https://channels.zappr.stream/rai4k.svg" group-title="Rai",Rai 4K [ZAPPR]
+#EXTINF:-1 tvg-id="rai4k.it" tvg-logo="https://channels.zappr.stream/rai4k.svg" group-title="Rai",Rai 4K [ZAPPR]
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn121" tvg-logo="https://channels.zappr.stream/italia121" group-title="Mediaset",Italia 121 [ZAPPR]
+#EXTINF:-1 tvg-id="italia121" tvg-logo="https://channels.zappr.stream/italia121" group-title="Mediaset",Italia 121 [ZAPPR]
 https://uvotv.zappr.stream/218.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn122" tvg-logo="https://channels.zappr.stream/canale122" group-title="Altro",Canale 122 [ZAPPR]
+#EXTINF:-1 tvg-id="canale122" tvg-logo="https://channels.zappr.stream/canale122" group-title="Altro",Canale 122 [ZAPPR]
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn123" tvg-logo="https://channels.zappr.stream/italiachannel" group-title="Altro",Italia Channel [ZAPPR]
+#EXTINF:-1 tvg-id="italiachannel" tvg-logo="https://channels.zappr.stream/italiachannel" group-title="Altro",Italia Channel [ZAPPR]
 https://uvotv.zappr.stream/71.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn124" tvg-logo="https://channels.zappr.stream/arteitalia124" group-title="Mediaset",Arte Italia 124 [ZAPPR]
+#EXTINF:-1 tvg-id="arteitalia124" tvg-logo="https://channels.zappr.stream/arteitalia124" group-title="Mediaset",Arte Italia 124 [ZAPPR]
 https://uvotv.zappr.stream/203.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn125" tvg-logo="https://channels.zappr.stream/arteitalia125" group-title="Mediaset",Arte Italia 125 [ZAPPR]
+#EXTINF:-1 tvg-id="arteitalia125" tvg-logo="https://channels.zappr.stream/arteitalia125" group-title="Mediaset",Arte Italia 125 [ZAPPR]
 https://uvotv.zappr.stream/188.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn126" tvg-logo="https://channels.zappr.stream/italia126" group-title="Mediaset",Italia 126 [ZAPPR]
+#EXTINF:-1 tvg-id="italia126" tvg-logo="https://channels.zappr.stream/italia126" group-title="Mediaset",Italia 126 [ZAPPR]
 https://uvotv.zappr.stream/191.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn127" tvg-logo="https://channels.zappr.stream/italia127" group-title="Mediaset",Italia 127 [ZAPPR]
+#EXTINF:-1 tvg-id="italia127" tvg-logo="https://channels.zappr.stream/italia127" group-title="Mediaset",Italia 127 [ZAPPR]
 https://uvotv.zappr.stream/194.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn128" tvg-logo="https://channels.zappr.stream/goldtvitalia" group-title="Altro",Gold TV Italia [ZAPPR]
+#EXTINF:-1 tvg-id="goldtvitalia" tvg-logo="https://channels.zappr.stream/goldtvitalia" group-title="Altro",Gold TV Italia [ZAPPR]
 https://uvotv.zappr.stream/317.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn129" tvg-logo="https://channels.zappr.stream/la4italia" group-title="Altro",La4 Italia [ZAPPR]
+#EXTINF:-1 tvg-id="la4italia" tvg-logo="https://channels.zappr.stream/la4italia" group-title="Altro",La4 Italia [ZAPPR]
 https://uvotv.zappr.stream/320.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn130" tvg-logo="https://channels.zappr.stream/channel24.svg" group-title="Altro",Channel 24 [ZAPPR]
+#EXTINF:-1 tvg-id="channel24" tvg-logo="https://channels.zappr.stream/channel24.svg" group-title="Altro",Channel 24 [ZAPPR]
 https://uvotv.zappr.stream/323.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn131" tvg-logo="https://channels.zappr.stream/reteitalia.svg" group-title="Altro",Rete Italia [ZAPPR]
+#EXTINF:-1 tvg-id="reteitalia" tvg-logo="https://channels.zappr.stream/reteitalia.svg" group-title="Altro",Rete Italia [ZAPPR]
 https://uvotv.zappr.stream/326.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn132" tvg-logo="https://channels.zappr.stream/lineagem" group-title="Altro",Lineagem [ZAPPR]
+#EXTINF:-1 tvg-id="lineagem" tvg-logo="https://channels.zappr.stream/lineagem" group-title="Altro",Lineagem [ZAPPR]
 https://uvotv.zappr.stream/164.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn133" tvg-logo="https://channels.zappr.stream/artein.svg" group-title="Documentari",ArteIN [ZAPPR]
+#EXTINF:-1 tvg-id="artein" tvg-logo="https://channels.zappr.stream/artein.svg" group-title="Documentari",ArteIN [ZAPPR]
 https://5a1178b42cc03.streamlock.net/chiossone/chiossone/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn134" tvg-logo="https://channels.zappr.stream/italia134" group-title="Mediaset",Italia 134 [ZAPPR]
+#EXTINF:-1 tvg-id="italia134" tvg-logo="https://channels.zappr.stream/italia134" group-title="Mediaset",Italia 134 [ZAPPR]
 https://uvotv.zappr.stream/200.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn135" tvg-logo="https://channels.zappr.stream/italia135" group-title="Mediaset",Italia 135 [ZAPPR]
+#EXTINF:-1 tvg-id="italia135" tvg-logo="https://channels.zappr.stream/italia135" group-title="Mediaset",Italia 135 [ZAPPR]
 https://uvotv.zappr.stream/197.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn136" tvg-logo="https://channels.zappr.stream/italia136" group-title="Mediaset",Italia 136 [ZAPPR]
+#EXTINF:-1 tvg-id="italia136" tvg-logo="https://channels.zappr.stream/italia136" group-title="Mediaset",Italia 136 [ZAPPR]
 https://liveac915ha.streamcloud.it/channel08/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn137" tvg-logo="https://channels.zappr.stream/goldinvest" group-title="Altro",Gold Invest [ZAPPR]
+#EXTINF:-1 tvg-id="goldinvest" tvg-logo="https://channels.zappr.stream/goldinvest" group-title="Altro",Gold Invest [ZAPPR]
 https://uvotv.zappr.stream/332.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn138" tvg-logo="https://channels.zappr.stream/telecampione.svg" group-title="Altro",Telecampione [ZAPPR]
+#EXTINF:-1 tvg-id="telecampione.it" tvg-logo="https://channels.zappr.stream/telecampione.svg" group-title="Altro",Telecampione [ZAPPR]
 https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn139" tvg-logo="https://channels.zappr.stream/deluxe139.svg" group-title="Altro",Deluxe 139 [ZAPPR]
+#EXTINF:-1 tvg-id="deluxe139" tvg-logo="https://channels.zappr.stream/deluxe139.svg" group-title="Altro",Deluxe 139 [ZAPPR]
 https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn140" tvg-logo="https://channels.zappr.stream/starmarket" group-title="Altro",StarMarket [ZAPPR]
+#EXTINF:-1 tvg-id="starmarket" tvg-logo="https://channels.zappr.stream/starmarket" group-title="Altro",StarMarket [ZAPPR]
 https://uvotv.zappr.stream/338.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn144" tvg-logo="https://channels.zappr.stream/canale144" group-title="Altro",Canale 144 [ZAPPR]
+#EXTINF:-1 tvg-id="canale144" tvg-logo="https://channels.zappr.stream/canale144" group-title="Altro",Canale 144 [ZAPPR]
 https://uvotv.zappr.stream/335.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn145" tvg-logo="https://channels.zappr.stream/padrepiotv" group-title="Altro",Padre Pio TV [ZAPPR]
+#EXTINF:-1 tvg-id="padrepiotv" tvg-logo="https://channels.zappr.stream/padrepiotv" group-title="Altro",Padre Pio TV [ZAPPR]
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn147" tvg-logo="https://channels.zappr.stream/fascinotv147" group-title="Altro",Fascino TV 147 [ZAPPR]
+#EXTINF:-1 tvg-id="fascinotv147" tvg-logo="https://channels.zappr.stream/fascinotv147" group-title="Altro",Fascino TV 147 [ZAPPR]
 https://64b16f23efbee.streamlock.net/canale147/canale147/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn149" tvg-logo="https://channels.zappr.stream/primaset" group-title="Altro",Primaset [ZAPPR]
+#EXTINF:-1 tvg-id="primaset" tvg-logo="https://channels.zappr.stream/primaset" group-title="Altro",Primaset [ZAPPR]
 https://primaset.servizistreaming.it/canale1/index.html
-#EXTINF:-1 tvg-id="zappr.lcn151" tvg-logo="https://channels.zappr.stream/equtv" group-title="Altro",EQUtv [ZAPPR]
+#EXTINF:-1 tvg-id="equtv.it" tvg-logo="https://channels.zappr.stream/equtv" group-title="Altro",EQUtv [ZAPPR]
 https://uvotv.zappr.stream/176.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn157" tvg-logo="https://channels.zappr.stream/fascinotv" group-title="Altro",Fascino TV 157 [ZAPPR]
+#EXTINF:-1 tvg-id="fascinotv157" tvg-logo="https://channels.zappr.stream/fascinotv" group-title="Altro",Fascino TV 157 [ZAPPR]
 https://64b16f23efbee.streamlock.net/canale157/canale157/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn158" tvg-logo="https://channels.zappr.stream/kisskiss.svg" group-title="Musica",Kiss Kiss TV [ZAPPR]
+#EXTINF:-1 tvg-id="kisskisstv" tvg-logo="https://channels.zappr.stream/kisskiss.svg" group-title="Musica",Kiss Kiss TV [ZAPPR]
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn162" tvg-logo="https://channels.zappr.stream/162" group-title="Altro",Canale 162 [ZAPPR]
+#EXTINF:-1 tvg-id="canale162" tvg-logo="https://channels.zappr.stream/162" group-title="Altro",Canale 162 [ZAPPR]
 https://uvotv.zappr.stream/550.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn163" tvg-logo="https://channels.zappr.stream/odeon24" group-title="Altro",Odeon 24 [ZAPPR]
+#EXTINF:-1 tvg-id="odeon24" tvg-logo="https://channels.zappr.stream/odeon24" group-title="Altro",Odeon 24 [ZAPPR]
 https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn165" tvg-logo="https://channels.zappr.stream/fascinotv165" group-title="Altro",Fascino TV 165 [ZAPPR]
+#EXTINF:-1 tvg-id="fascinotv165" tvg-logo="https://channels.zappr.stream/fascinotv165" group-title="Altro",Fascino TV 165 [ZAPPR]
 https://64b16f23efbee.streamlock.net/canale165/canale165/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn166" tvg-logo="https://channels.zappr.stream/orlertv" group-title="Altro",Orler TV [ZAPPR]
+#EXTINF:-1 tvg-id="orlertv" tvg-logo="https://channels.zappr.stream/orlertv" group-title="Altro",Orler TV [ZAPPR]
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn168" tvg-logo="https://channels.zappr.stream/canale168" group-title="Altro",Fascino TV 168 [ZAPPR]
+#EXTINF:-1 tvg-id="fascinotv168" tvg-logo="https://channels.zappr.stream/canale168" group-title="Altro",Fascino TV 168 [ZAPPR]
 https://64b16f23efbee.streamlock.net/canale168/canale168/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn169" tvg-logo="https://channels.zappr.stream/canale169" group-title="Altro",Fascino TV 169 [ZAPPR]
+#EXTINF:-1 tvg-id="fascinotv169" tvg-logo="https://channels.zappr.stream/canale169" group-title="Altro",Fascino TV 169 [ZAPPR]
 https://64b16f23efbee.streamlock.net/canale169/canale169/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn170" tvg-logo="https://channels.zappr.stream/primafree" group-title="Altro",Prima Free [ZAPPR]
+#EXTINF:-1 tvg-id="primafree" tvg-logo="https://channels.zappr.stream/primafree" group-title="Altro",Prima Free [ZAPPR]
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn201" tvg-logo="https://channels.zappr.stream/raiplay.svg" group-title="Rai",RaiPlay [ZAPPR]
+#EXTINF:-1 tvg-id="raiplay" tvg-logo="https://channels.zappr.stream/raiplay.svg" group-title="Rai",RaiPlay [ZAPPR]
 https://www.raiplay.it/hbbtv/RaiPlay2020/index.html
-#EXTINF:-1 tvg-id="zappr.lcn202" tvg-logo="https://channels.zappr.stream/rairadio2.svg" group-title="Rai",Rai Radio 2 Visual [ZAPPR]
+#EXTINF:-1 tvg-id="rairadio2visual" tvg-logo="https://channels.zappr.stream/rairadio2.svg" group-title="Rai",Rai Radio 2 Visual [ZAPPR]
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn203" tvg-logo="https://channels.zappr.stream/raiplaysound.svg" group-title="Rai",RaiPlay Sound [ZAPPR]
+#EXTINF:-1 tvg-id="raiplaysound" tvg-logo="https://channels.zappr.stream/raiplaysound.svg" group-title="Rai",RaiPlay Sound [ZAPPR]
 https://www.raiplay.it/hbbtv/RaiPlaySound/index.html
-#EXTINF:-1 tvg-id="zappr.lcn220" tvg-logo="https://channels.zappr.stream/apchannel" group-title="Altro",AP Channel [ZAPPR]
+#EXTINF:-1 tvg-id="apchannel" tvg-logo="https://channels.zappr.stream/apchannel" group-title="Altro",AP Channel [ZAPPR]
 https://64b16f23efbee.streamlock.net/apchannel/apchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn222" tvg-logo="https://channels.zappr.stream/radioromanetwork" group-title="Musica",Radio Roma Network [ZAPPR]
+#EXTINF:-1 tvg-id="radioromanetwork" tvg-logo="https://channels.zappr.stream/radioromanetwork" group-title="Musica",Radio Roma Network [ZAPPR]
 https://www.dailymotion.com/cdn/live/video/x98v4v8.m3u8?sec=kmpTBsX8LlC4t_EOK2rdhHmIDrT5f-SbP023JGqRSBQBeAZMqQVFIDsvB0omzVDr
-#EXTINF:-1 tvg-id="zappr.lcn223" tvg-logo="https://channels.zappr.stream/italiaseratv" group-title="Altro",Italia Sera TV [ZAPPR]
+#EXTINF:-1 tvg-id="italiaseratv" tvg-logo="https://channels.zappr.stream/italiaseratv" group-title="Altro",Italia Sera TV [ZAPPR]
 https://5f22d76e220e1.streamlock.net/canale10/canale10/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn226" tvg-logo="https://channels.zappr.stream/welcomein" group-title="Altro",Welcome In [ZAPPR]
+#EXTINF:-1 tvg-id="welcomein" tvg-logo="https://channels.zappr.stream/welcomein" group-title="Altro",Welcome In [ZAPPR]
 https://fms.premio.link/welcomein/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn228" tvg-logo="https://channels.zappr.stream/tesorychannel" group-title="Altro",Tesory Channel [ZAPPR]
+#EXTINF:-1 tvg-id="tesorychannel" tvg-logo="https://channels.zappr.stream/tesorychannel" group-title="Altro",Tesory Channel [ZAPPR]
 https://uvotv.zappr.stream/140.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn231" tvg-logo="https://channels.zappr.stream/terreeuganeechannel.svg" group-title="Altro",Terre Euganee Channel [ZAPPR]
+#EXTINF:-1 tvg-id="terreeuganeechannel" tvg-logo="https://channels.zappr.stream/terreeuganeechannel.svg" group-title="Altro",Terre Euganee Channel [ZAPPR]
 https://5f22d76e220e1.streamlock.net/canale3/canale3/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn233" tvg-logo="https://channels.zappr.stream/rtlcaliente.svg" group-title="Musica",RTL 102.5 Caliente [ZAPPR]
+#EXTINF:-1 tvg-id="rtl1025caliente" tvg-logo="https://channels.zappr.stream/rtlcaliente.svg" group-title="Musica",RTL 102.5 Caliente [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn234" tvg-logo="https://channels.zappr.stream/cusanonews7" group-title="News",Cusano News 7 [ZAPPR]
+#EXTINF:-1 tvg-id="cusanonews7" tvg-logo="https://channels.zappr.stream/cusanonews7" group-title="News",Cusano News 7 [ZAPPR]
 https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn236" tvg-logo="https://channels.zappr.stream/man-ga" group-title="Altro",Man-ga [ZAPPR]
+#EXTINF:-1 tvg-id="manga" tvg-logo="https://channels.zappr.stream/man-ga" group-title="Altro",Man-ga [ZAPPR]
 https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn240" tvg-logo="https://channels.zappr.stream/genius240" group-title="Altro",Genius 240 [ZAPPR]
+#EXTINF:-1 tvg-id="genius240" tvg-logo="https://channels.zappr.stream/genius240" group-title="Altro",Genius 240 [ZAPPR]
 https://uvotv.zappr.stream/149.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn241" tvg-logo="https://channels.zappr.stream/france24.svg" group-title="Altro",France 24 [ZAPPR]
+#EXTINF:-1 tvg-id="france24.it" tvg-logo="https://channels.zappr.stream/france24.svg" group-title="Altro",France 24 [ZAPPR]
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn242" tvg-logo="https://channels.zappr.stream/sicilia242" group-title="Altro",Sicilia 242 [ZAPPR]
+#EXTINF:-1 tvg-id="sicilia242" tvg-logo="https://channels.zappr.stream/sicilia242" group-title="Altro",Sicilia 242 [ZAPPR]
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn245" tvg-logo="https://channels.zappr.stream/paroledivita.svg" group-title="Altro",Parole di Vita [ZAPPR]
+#EXTINF:-1 tvg-id="paroledivita" tvg-logo="https://channels.zappr.stream/paroledivita.svg" group-title="Altro",Parole di Vita [ZAPPR]
 https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn246" tvg-logo="https://channels.zappr.stream/ilsole24oretv" group-title="Altro",Il Sole 24 Ore TV [ZAPPR]
+#EXTINF:-1 tvg-id="ilsole24oretv" tvg-logo="https://channels.zappr.stream/ilsole24oretv" group-title="Altro",Il Sole 24 Ore TV [ZAPPR]
 https://760869f771b04ca8a1e4daa89dd6da3e.msvdn.net/live/S88650405/33lZG4owunfW/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn247" tvg-logo="https://channels.zappr.stream/bejoykids" group-title="Bambini",BeJoy.Kids [ZAPPR]
+#EXTINF:-1 tvg-id="bejoykids" tvg-logo="https://channels.zappr.stream/bejoykids" group-title="Bambini",BeJoy.Kids [ZAPPR]
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn248" tvg-logo="https://channels.zappr.stream/248tv" group-title="Altro",248TV [ZAPPR]
+#EXTINF:-1 tvg-id="248tv" tvg-logo="https://channels.zappr.stream/248tv" group-title="Altro",248TV [ZAPPR]
 https://5f22d76e220e1.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn249" tvg-logo="https://channels.zappr.stream/enjoytvitalia" group-title="Altro",Enjoy TV Italia [ZAPPR]
+#EXTINF:-1 tvg-id="enjoytvitalia" tvg-logo="https://channels.zappr.stream/enjoytvitalia" group-title="Altro",Enjoy TV Italia [ZAPPR]
 https://64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn253" tvg-logo="https://channels.zappr.stream/radioradio" group-title="Musica",Radio Radio TV [ZAPPR]
+#EXTINF:-1 tvg-id="radioradiotv" tvg-logo="https://channels.zappr.stream/radioradio" group-title="Musica",Radio Radio TV [ZAPPR]
 https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_abeef7b0903711eeb7c62796fbf7de76/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn255" tvg-logo="https://channels.zappr.stream/mariavision" group-title="Altro",Maria Vision [ZAPPR]
+#EXTINF:-1 tvg-id="mariavision" tvg-logo="https://channels.zappr.stream/mariavision" group-title="Altro",Maria Vision [ZAPPR]
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn256" tvg-logo="https://channels.zappr.stream/onairitalia.svg" group-title="Altro",OnAir Italia [ZAPPR]
+#EXTINF:-1 tvg-id="onairitalia" tvg-logo="https://channels.zappr.stream/onairitalia.svg" group-title="Altro",OnAir Italia [ZAPPR]
 https://5f22d76e220e1.streamlock.net/nauticachannel/nauticachannel/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn257" tvg-logo="https://channels.zappr.stream/gamberorosso.svg" group-title="Altro",Gambero Rosso [ZAPPR]
+#EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="https://channels.zappr.stream/gamberorosso.svg" group-title="Altro",Gambero Rosso [ZAPPR]
 https://www.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=znapDBnGZ4vUPyUrfKmXYA
-#EXTINF:-1 tvg-id="zappr.lcn258" tvg-logo="https://channels.zappr.stream/radiofreccia.svg" group-title="Musica",Radiofreccia [ZAPPR]
+#EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://channels.zappr.stream/radiofreccia.svg" group-title="Musica",Radiofreccia [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn260" tvg-logo="https://channels.zappr.stream/urania.svg" group-title="Altro",Urania [ZAPPR]
+#EXTINF:-1 tvg-id="urania" tvg-logo="https://channels.zappr.stream/urania.svg" group-title="Altro",Urania [ZAPPR]
 https://69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn261" tvg-logo="https://channels.zappr.stream/drpalmastv.svg" group-title="Altro",Dr. Palmas TV [ZAPPR]
+#EXTINF:-1 tvg-id="drpalmastv" tvg-logo="https://channels.zappr.stream/drpalmastv.svg" group-title="Altro",Dr. Palmas TV [ZAPPR]
 https://streamer2.premio.link/dr_palmastv/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn262" tvg-logo="https://channels.zappr.stream/byoblu.svg" group-title="Altro",Byoblu [ZAPPR]
+#EXTINF:-1 tvg-id="byoblu" tvg-logo="https://channels.zappr.stream/byoblu.svg" group-title="Altro",Byoblu [ZAPPR]
 https://uvotv.zappr.stream/179.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn264" tvg-logo="https://channels.zappr.stream/ntr264" group-title="Musica",Radio NTR 264 [ZAPPR]
+#EXTINF:-1 tvg-id="radiontr264" tvg-logo="https://channels.zappr.stream/ntr264" group-title="Musica",Radio NTR 264 [ZAPPR]
 https://primaset.servizistreaming.it/canale2/index.html
-#EXTINF:-1 tvg-id="zappr.lcn265" tvg-logo="https://channels.zappr.stream/rdssocialtv.svg" group-title="Musica",RDS Social TV [ZAPPR]
+#EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://channels.zappr.stream/rdssocialtv.svg" group-title="Musica",RDS Social TV [ZAPPR]
 https://stream.rdstv.radio/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn266" tvg-logo="https://channels.zappr.stream/radiozeta.svg" group-title="Musica",Radio Zeta [ZAPPR]
+#EXTINF:-1 tvg-id="radiozeta" tvg-logo="https://channels.zappr.stream/radiozeta.svg" group-title="Musica",Radio Zeta [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn267" tvg-logo="https://channels.zappr.stream/arteoratv" group-title="Documentari",ArteOraTV [ZAPPR]
+#EXTINF:-1 tvg-id="arteoratv" tvg-logo="https://channels.zappr.stream/arteoratv" group-title="Documentari",ArteOraTV [ZAPPR]
 https://stream10.xdevel.com/video0s978273-2568/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn270" tvg-logo="https://channels.zappr.stream/2settantatv" group-title="Altro",2Settanta TV [ZAPPR]
+#EXTINF:-1 tvg-id="2settantatv" tvg-logo="https://channels.zappr.stream/2settantatv" group-title="Altro",2Settanta TV [ZAPPR]
 http://185.91.68.35:1935/live/cdn5/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn401" tvg-logo="https://channels.zappr.stream/sct" group-title="Altro",Satisfaction TV [ZAPPR]
+#EXTINF:-1 tvg-id="satisfactiontv" tvg-logo="https://channels.zappr.stream/sct" group-title="Altro",Satisfaction TV [ZAPPR]
 https://stream10.xdevel.com/video22s975955-2186/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn403" tvg-logo="https://channels.zappr.stream/nexumchannel" group-title="Altro",Nexum Channel [ZAPPR]
+#EXTINF:-1 tvg-id="nexumchannel" tvg-logo="https://channels.zappr.stream/nexumchannel" group-title="Altro",Nexum Channel [ZAPPR]
 https://64b16f23efbee.streamlock.net/nexumchannel/nexumchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn410" tvg-logo="https://channels.zappr.stream/malpensa24" group-title="Altro",Malpensa24 TV [ZAPPR]
+#EXTINF:-1 tvg-id="malpensa24tv" tvg-logo="https://channels.zappr.stream/malpensa24" group-title="Altro",Malpensa24 TV [ZAPPR]
 https://streamer3.premio.link/malpensa-tv/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn412" tvg-logo="https://channels.zappr.stream/imprese" group-title="Altro",Imprese [ZAPPR]
+#EXTINF:-1 tvg-id="imprese" tvg-logo="https://channels.zappr.stream/imprese" group-title="Altro",Imprese [ZAPPR]
 https://streamer2.premio.link/imprese/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn441" tvg-logo="https://channels.zappr.stream/italianfishingtv" group-title="Altro",Italian Fishing TV [ZAPPR]
+#EXTINF:-1 tvg-id="italianfishingtv" tvg-logo="https://channels.zappr.stream/italianfishingtv" group-title="Altro",Italian Fishing TV [ZAPPR]
 https://fms.premio.link/fishingtv/index.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn510" tvg-logo="https://channels.zappr.stream/automoto.svg" group-title="Altro",Automoto [ZAPPR]
+#EXTINF:-1 tvg-id="automoto" tvg-logo="https://channels.zappr.stream/automoto.svg" group-title="Altro",Automoto [ZAPPR]
 https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn701" tvg-logo="https://channels.zappr.stream/rairadio1.svg" group-title="Rai",Rai Radio 1 [ZAPPR]
+#EXTINF:-1 tvg-id="rairadio1" tvg-logo="https://channels.zappr.stream/rairadio1.svg" group-title="Rai",Rai Radio 1 [ZAPPR]
 https://radiounoita-live.akamaized.net/hls/live/2032820/radiounoita/radiounoita/radio1_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn702" tvg-logo="https://channels.zappr.stream/rairadio2.svg" group-title="Rai",Rai Radio 2 [ZAPPR]
+#EXTINF:-1 tvg-id="rairadio2.it" tvg-logo="https://channels.zappr.stream/rairadio2.svg" group-title="Rai",Rai Radio 2 [ZAPPR]
 https://radiodue-live.akamaized.net/hls/live/2032592/radiodue/radiodue/radio2_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn703" tvg-logo="https://channels.zappr.stream/rairadio3.svg" group-title="Rai",Rai Radio 3 [ZAPPR]
+#EXTINF:-1 tvg-id="rairadio3" tvg-logo="https://channels.zappr.stream/rairadio3.svg" group-title="Rai",Rai Radio 3 [ZAPPR]
 https://radiotre-live.akamaized.net/hls/live/2032594/radiotre/radiotre/radio3_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn704" tvg-logo="https://channels.zappr.stream/raigrparlamento.svg" group-title="Rai",Rai GR Parlamento [ZAPPR]
+#EXTINF:-1 tvg-id="raigrparlamento" tvg-logo="https://channels.zappr.stream/raigrparlamento.svg" group-title="Rai",Rai GR Parlamento [ZAPPR]
 https://radioparlamento-live.akamaized.net/hls/live/2032597/radioparlamento/radioparlamento/radioparlamento_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn705" tvg-logo="https://channels.zappr.stream/raiisoradio.svg" group-title="Rai",Rai Isoradio [ZAPPR]
+#EXTINF:-1 tvg-id="raiisoradio" tvg-logo="https://channels.zappr.stream/raiisoradio.svg" group-title="Rai",Rai Isoradio [ZAPPR]
 https://isoradioita-live.akamaized.net/hls/live/2032601/isoradioita/isoradioita/isoradioita_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn706" tvg-logo="https://channels.zappr.stream/rairadio3classica.svg" group-title="Rai",Rai Radio 3 Classica [ZAPPR]
+#EXTINF:-1 tvg-id="rairadio3classica" tvg-logo="https://channels.zappr.stream/rairadio3classica.svg" group-title="Rai",Rai Radio 3 Classica [ZAPPR]
 https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/radio3classica_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn707" tvg-logo="https://channels.zappr.stream/rairadiokids.svg" group-title="Rai",Rai Radio Kids [ZAPPR]
+#EXTINF:-1 tvg-id="rairadiokids" tvg-logo="https://channels.zappr.stream/rairadiokids.svg" group-title="Rai",Rai Radio Kids [ZAPPR]
 https://radiokids-live.akamaized.net/hls/live/2032600/radiokids/radiokids/radiokids_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn708" tvg-logo="https://channels.zappr.stream/rairadiolivenapoli.svg" group-title="Rai",Rai Radio Live Napoli [ZAPPR]
+#EXTINF:-1 tvg-id="rairadiolivenapoli" tvg-logo="https://channels.zappr.stream/rairadiolivenapoli.svg" group-title="Rai",Rai Radio Live Napoli [ZAPPR]
 https://radiolive-live.akamaized.net/hls/live/2032599/radiolive/radiolive/radiolive_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn709" tvg-logo="https://channels.zappr.stream/rairadiotechetè.svg" group-title="Rai",Rai Radio Techetè [ZAPPR]
+#EXTINF:-1 tvg-id="rairadiotechetè" tvg-logo="https://channels.zappr.stream/rairadiotechetè.svg" group-title="Rai",Rai Radio Techetè [ZAPPR]
 https://radiotechete-live.akamaized.net/hls/live/2032598/radiotechete/radiotechete/radiotechete_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn710" tvg-logo="https://channels.zappr.stream/rairadiotuttaitaliana.svg" group-title="Rai",Rai Radio Tutta Italiana [ZAPPR]
+#EXTINF:-1 tvg-id="rairadiotuttaitaliana" tvg-logo="https://channels.zappr.stream/rairadiotuttaitaliana.svg" group-title="Rai",Rai Radio Tutta Italiana [ZAPPR]
 https://radiotuttaitaliana-live.akamaized.net/hls/live/2032596/radiotuttaitaliana/radiotuttaitaliana/radiotuttaitaliana_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn711" tvg-logo="https://channels.zappr.stream/rairadio1sport.svg" group-title="Rai",Rai Radio 1 Sport [ZAPPR]
+#EXTINF:-1 tvg-id="rairadio1sport" tvg-logo="https://channels.zappr.stream/rairadio1sport.svg" group-title="Rai",Rai Radio 1 Sport [ZAPPR]
 https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/radiounosportita/radio1sportita_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn712" tvg-logo="https://channels.zappr.stream/nonameradio.svg" group-title="Musica",No Name Radio [ZAPPR]
+#EXTINF:-1 tvg-id="nonameradio" tvg-logo="https://channels.zappr.stream/nonameradio.svg" group-title="Musica",No Name Radio [ZAPPR]
 https://radiodueindie-live.akamaized.net/hls/live/2032593/radiodueindie/radiodueindie/radio2indie_256/chunklist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn713" tvg-logo="https://channels.zappr.stream/radiocapital.svg" group-title="Musica",Radio Capital [ZAPPR]
+#EXTINF:-1 tvg-id="radiocapital" tvg-logo="https://channels.zappr.stream/radiocapital.svg" group-title="Musica",Radio Capital [ZAPPR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma2.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn714" tvg-logo="https://channels.zappr.stream/deejay.svg" group-title="Musica",Radio Deejay [ZAPPR]
+#EXTINF:-1 tvg-id="radiodeejay" tvg-logo="https://channels.zappr.stream/deejay.svg" group-title="Musica",Radio Deejay [ZAPPR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn715" tvg-logo="https://channels.zappr.stream/m2o.svg" group-title="Musica",Radio m2o [ZAPPR]
+#EXTINF:-1 tvg-id="radiom2o" tvg-logo="https://channels.zappr.stream/m2o.svg" group-title="Musica",Radio m2o [ZAPPR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn724" tvg-logo="https://channels.zappr.stream/rds.svg" group-title="Musica",RDS [ZAPPR]
+#EXTINF:-1 tvg-id="rds" tvg-logo="https://channels.zappr.stream/rds.svg" group-title="Musica",RDS [ZAPPR]
 https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn728" tvg-logo="https://channels.zappr.stream/inblu2000.svg" group-title="Altro",InBlu2000 [ZAPPR]
+#EXTINF:-1 tvg-id="inblu2000" tvg-logo="https://channels.zappr.stream/inblu2000.svg" group-title="Altro",InBlu2000 [ZAPPR]
 https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn733" tvg-logo="https://channels.zappr.stream/radiovaticana.svg" group-title="Musica",Radio Vaticana Italia [ZAPPR]
+#EXTINF:-1 tvg-id="radiovaticanaitalia" tvg-logo="https://channels.zappr.stream/radiovaticana.svg" group-title="Musica",Radio Vaticana Italia [ZAPPR]
 https://radio.vaticannews.va/stream-it
-#EXTINF:-1 tvg-id="zappr.lcn736" tvg-logo="https://channels.zappr.stream/rtl.svg" group-title="Musica",RTL 102.5 [ZAPPR]
+#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://channels.zappr.stream/rtl.svg" group-title="Musica",RTL 102.5 [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn737" tvg-logo="https://channels.zappr.stream/radiozeta.svg" group-title="Musica",Radio Zeta [ZAPPR]
+#EXTINF:-1 tvg-id="radiozeta" tvg-logo="https://channels.zappr.stream/radiozeta.svg" group-title="Musica",Radio Zeta [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/playlist_audio.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn738" tvg-logo="https://channels.zappr.stream/radiofreccia.svg" group-title="Musica",Radiofreccia [ZAPPR]
+#EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://channels.zappr.stream/radiofreccia.svg" group-title="Musica",Radiofreccia [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn739" tvg-logo="https://channels.zappr.stream/rtltraffic.svg" group-title="Musica",RTL 102.5 Traffic [ZAPPR]
+#EXTINF:-1 tvg-id="rtl1025traffic" tvg-logo="https://channels.zappr.stream/rtltraffic.svg" group-title="Musica",RTL 102.5 Traffic [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn740" tvg-logo="https://channels.zappr.stream/rtlbest.svg" group-title="Musica",RTL 102.5 Best [ZAPPR]
+#EXTINF:-1 tvg-id="rtl1025best" tvg-logo="https://channels.zappr.stream/rtlbest.svg" group-title="Musica",RTL 102.5 Best [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn741" tvg-logo="https://channels.zappr.stream/rtlnapulè.svg" group-title="Musica",RTL 102.5 Napulè [ZAPPR]
+#EXTINF:-1 tvg-id="rtl1025napulè" tvg-logo="https://channels.zappr.stream/rtlnapulè.svg" group-title="Musica",RTL 102.5 Napulè [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn742" tvg-logo="https://channels.zappr.stream/rtldisco.svg" group-title="Musica",RTL 102.5 Disco [ZAPPR]
+#EXTINF:-1 tvg-id="rtl1025disco" tvg-logo="https://channels.zappr.stream/rtldisco.svg" group-title="Musica",RTL 102.5 Disco [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn743" tvg-logo="https://channels.zappr.stream/rtlcaliente.svg" group-title="Musica",RTL 102.5 Caliente [ZAPPR]
+#EXTINF:-1 tvg-id="rtl1025caliente" tvg-logo="https://channels.zappr.stream/rtlcaliente.svg" group-title="Musica",RTL 102.5 Caliente [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn744" tvg-logo="https://channels.zappr.stream/rtlbrosis.svg" group-title="Musica",RTL 102.5 Bro&Sis [ZAPPR]
+#EXTINF:-1 tvg-id="rtl1025brosis" tvg-logo="https://channels.zappr.stream/rtlbrosis.svg" group-title="Musica",RTL 102.5 Bro&Sis [ZAPPR]
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn770" tvg-logo="https://channels.zappr.stream/radioitalia.svg" group-title="Musica",Radio Italia [ZAPPR]
+#EXTINF:-1 tvg-id="radioitalia" tvg-logo="https://channels.zappr.stream/radioitalia.svg" group-title="Musica",Radio Italia [ZAPPR]
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn771" tvg-logo="https://channels.zappr.stream/r101.svg" group-title="Musica",R101 [ZAPPR]
+#EXTINF:-1 tvg-id="r101.it" tvg-logo="https://channels.zappr.stream/r101.svg" group-title="Musica",R101 [ZAPPR]
 https://icecast.unitedradio.it/r101
-#EXTINF:-1 tvg-id="zappr.lcn772" tvg-logo="https://channels.zappr.stream/radiomontecarlo" group-title="Musica",Radio Monte Carlo [ZAPPR]
+#EXTINF:-1 tvg-id="radiomontecarlo.it" tvg-logo="https://channels.zappr.stream/radiomontecarlo" group-title="Musica",Radio Monte Carlo [ZAPPR]
 https://icy.unitedradio.it/RMC.mp3
-#EXTINF:-1 tvg-id="zappr.lcn785" tvg-logo="https://channels.zappr.stream/radio105.svg" group-title="Musica",Radio 105 [ZAPPR]
+#EXTINF:-1 tvg-id="radio.105.it" tvg-logo="https://channels.zappr.stream/radio105.svg" group-title="Musica",Radio 105 [ZAPPR]
 https://icecast.unitedradio.it/Radio105.mp3
-#EXTINF:-1 tvg-id="zappr.lcn786" tvg-logo="https://channels.zappr.stream/virginradio.svg" group-title="Musica",Virgin Radio [ZAPPR]
+#EXTINF:-1 tvg-id="virgin.radio.it" tvg-logo="https://channels.zappr.stream/virginradio.svg" group-title="Musica",Virgin Radio [ZAPPR]
 https://icecast.unitedradio.it/Virgin.mp3
-#EXTINF:-1 tvg-id="zappr.lcn787" tvg-logo="https://channels.zappr.stream/teleleonessa" group-title="Altro",La Leonessa [ZAPPR]
+#EXTINF:-1 tvg-id="laleonessa" tvg-logo="https://channels.zappr.stream/teleleonessa" group-title="Altro",La Leonessa [ZAPPR]
 https://cdn12.streamshow.it/hbbtv-supertv/supertv/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn789" tvg-logo="https://channels.zappr.stream/radiomaria" group-title="Musica",Radio Maria [ZAPPR]
+#EXTINF:-1 tvg-id="radiomaria" tvg-logo="https://channels.zappr.stream/radiomaria" group-title="Musica",Radio Maria [ZAPPR]
 https://dreamsiteradiocp6.com/proxy/rmusait?mp=/stream
-#EXTINF:-1 tvg-id="zappr.lcn825" tvg-logo="https://channels.zappr.stream/radiomargheritapiù" group-title="Musica",Radio Margherita Più [ZAPPR]
+#EXTINF:-1 tvg-id="radiomargheritapiù" tvg-logo="https://channels.zappr.stream/radiomargheritapiù" group-title="Musica",Radio Margherita Più [ZAPPR]
 https://648026e87a75e.streamlock.net/radiomargherita/radiomargherita/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn828" tvg-logo="https://channels.zappr.stream/classcnbc.svg" group-title="Altro",Class CNBC [ZAPPR]
+#EXTINF:-1 tvg-id="class.cnbc.it" tvg-logo="https://channels.zappr.stream/classcnbc.svg" group-title="Altro",Class CNBC [ZAPPR]
 https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
-#EXTINF:-1 tvg-id="zappr.lcn833" tvg-logo="https://channels.zappr.stream/supersix" group-title="Altro",SuperSix [ZAPPR]
+#EXTINF:-1 tvg-id="supersix" tvg-logo="https://channels.zappr.stream/supersix" group-title="Altro",SuperSix [ZAPPR]
 https://5f22d76e220e1.streamlock.net/supersixnew/supersixnew/playlist.m3u8
-#EXTINF:-1 tvg-id="zappr.lcn883" tvg-logo="https://channels.zappr.stream/classtvmoda" group-title="Altro",Class TV Moda [ZAPPR]
+#EXTINF:-1 tvg-id="classtvmoda" tvg-logo="https://channels.zappr.stream/classtvmoda" group-title="Altro",Class TV Moda [ZAPPR]
 https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxAKdpdnH8gYPtFSg2hr2m8v11-0gQsz2FldP--C6DTACA-
-#EXTINF:-1 tvg-id="zappr.lcn888" tvg-logo="https://channels.zappr.stream/cacciaepesca.svg" group-title="Altro",Caccia e Pesca [ZAPPR]
+#EXTINF:-1 tvg-id="caccia.e.pesca.it" tvg-logo="https://channels.zappr.stream/cacciaepesca.svg" group-title="Altro",Caccia e Pesca [ZAPPR]
 https://app.cacciaepesca.tv/hbbtv-cp/
