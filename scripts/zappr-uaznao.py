@@ -153,7 +153,7 @@ try:
     for channel in data["channels"]:
         name = channel["name"]
         lcn = channel.get("lcn", "")
-        logo = f"https://channels.zappr.stream/{channel.get('logo', '')}" if channel.get('logo') else ""
+        logo = f"https://channels.zappr.stream/logos/it/optimized/{channel.get('logo', '')}" if channel.get('logo') else ""
         category = get_category(name)
         
         url_to_use = None
