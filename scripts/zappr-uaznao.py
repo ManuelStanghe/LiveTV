@@ -5,6 +5,7 @@ import json
 import re
 import urllib.parse
 import os
+import xml.etree.ElementTree as ET
 
 CATEGORY_KEYWORDS = {
     "Rai": ["rai"],
@@ -41,6 +42,54 @@ def remove_ck_param(url):
         return clean_url
     return url
 
+def normalize_name(name):
+    """Normalizza il nome per il confronto con l'EPG."""
+    if not name: return ""
+    n = name.lower()
+    n = re.sub(r"\s+", "", n)
+    n = re.sub(r"\[.*?\]", "", n) # Rimuove tag come [UAZNAO] o [inglese]
+    n = re.sub(r"\(.*?\)", "", n) # Rimuove parentesi
+    n = re.sub(r"\.it\b", "", n)
+    n = re.sub(r"hd|fullhd", "", n, flags=re.IGNORECASE)
+    # Rimuove tutto ciò che non è alfanumerico per un confronto più robusto
+    n = re.sub(r'[^a-z0-9À-ÿ]', '', n)
+    return n
+
+def create_tvg_map(epg_file="epg.xml"):
+    """Legge un file EPG XML e mappa i nomi ai loro tvg-id e loghi."""
+    tvg_map = {}
+    if not os.path.exists(epg_file):
+        print(f"⚠️ {epg_file} non trovato.")
+        return tvg_map
+        
+    try:
+        tree = ET.parse(epg_file)
+        root = tree.getroot()
+        for channel in root.findall('.//channel'):
+            tvg_id = channel.get('id')
+            name_elem = channel.find('display-name')
+            icon_elem = channel.find('icon')
+            
+            if tvg_id and name_elem is not None:
+                name = name_elem.text
+                if name:
+                    norm = normalize_name(name)
+                    logo_url = icon_elem.get('src') if icon_elem is not None else ""
+                    tvg_map[norm] = {"id": tvg_id, "logo": logo_url}
+    except Exception as e:
+        print(f"❌ Errore EPG: {e}")
+    return tvg_map
+
+def get_channel_info(name, tvg_map):
+    """Restituisce (tvg_id, logo) per il canale cercandolo nell'EPG."""
+    norm = normalize_name(name)
+    epg_data = tvg_map.get(norm)
+    
+    tvg_id = epg_data["id"] if epg_data else norm
+    logo = epg_data["logo"] if epg_data else ""
+    
+    return tvg_id, logo
+
 def extinf_line(tvg_id, logo, group, name):
     # virgola subito dopo group-title, nessun spazio prima del nome
     logo = logo or ""
@@ -49,6 +98,9 @@ def extinf_line(tvg_id, logo, group, name):
 m3u_content = ["#EXTM3U"]
 contatore_uaznao = 0
 contatore_zappr = 0
+
+# Carica il mapping tvg-id e loghi da epg.xml
+tvg_map = create_tvg_map("epg.xml")
 
 print("📡 Fetch Uaznao...")
 try:
@@ -73,10 +125,11 @@ try:
             
             clean_url = remove_ck_param(item['url'])
             
+            tvg_id, logo = get_channel_info(item["channelName"], tvg_map)
             m3u_content.append(
                 extinf_line(
-                    f'uaznao.{item.get("id", "")}',
-                    "",
+                    tvg_id,
+                    logo,
                     category,
                     f'{item["channelName"]} [UAZNAO]'
                 )
@@ -118,10 +171,13 @@ try:
                 print(f"✓ ZAPPR MAIN {name} → {category}")
         
         if url_to_use:
+            tvg_id, epg_logo = get_channel_info(name, tvg_map)
+            # Usa il logo dell'API se presente, altrimenti quello dell'EPG/Hardcoded
+            logo_final = logo if logo else epg_logo
             m3u_content.append(
                 extinf_line(
-                    f'zappr.lcn{lcn}',
-                    logo,
+                    tvg_id,
+                    logo_final,
                     category,
                     f'{name} [ZAPPR]'
                 )
