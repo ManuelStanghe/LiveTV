@@ -1,0 +1,38 @@
+name: Sports99 & Streamed
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  download-m3u:
+    runs-on: ubuntu-latest
+    permissions:        # Added permissions to allow pushing changes
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install requests 
+      
+      - name: Avvio sports99
+        run: python scripts/sports99.py
+
+      - name: Avvio streamed
+        run: python scripts/streamed.py
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'Github Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add sports99.m3u
+          git add streamed.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update sports99 & streamed - $(date '+%Y-%m-%d %H:%M:%S')" && git push)
