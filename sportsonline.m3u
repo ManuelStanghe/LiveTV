@@ -1,7 +1,15 @@
 #EXTM3U
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Liverpool x Chelsea 13:30
+https://v3.sportssonline.click/channels/hd/hd8.php
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Cagliari x Udinese 15:00
 https://v3.sportssonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Sunderland x Manchester United 16:00
+https://v3.sportssonline.click/channels/hd/hd8.php
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Lazio x Internazionale 18:00
 https://v3.sportssonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Manchester City x Brentford 18:30
+https://v3.sportssonline.click/channels/hd/hd8.php
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Lecce x Juventus 20:45
 https://v3.sportssonline.click/channels/hd/hd7.php
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Guadalajara x Tigres UANL 03:07
+https://v3.sportssonline.click/channels/hd/hd8.php

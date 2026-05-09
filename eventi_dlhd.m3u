@@ -1,1 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="internazionalibnlditaliaromemasterstennismay5172026" tvg-name="Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)" tvg-logo="https://imggen.eporner.com/8402825/1920/1080/2.jpg" group-title="Eventi Live DLHD",Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)
+https://dlstreams.com/watch.php?id=576
+
+#EXTINF:-1 tvg-id="internazionalibnlditaliaromemasterstennismay5172026" tvg-name="Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)" tvg-logo="https://minihuerto.com/wp-content/uploads/f09fa4af-cultiva-naranjas-en-una-maceta-69-proyecto-escolar-f09f8d8a.png" group-title="Eventi Live DLHD",Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)
+https://dlstreams.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="italyserieacagliarivsudinese" tvg-name="All Soccer Events | Italy - Serie A : Cagliari vs Udinese (13:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Cagliari_vs_Udinese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Cagliari vs Udinese (13:00)
+https://dlstreams.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="englandpremierleaguesunderlandvsmanchesterunited" tvg-name="All Soccer Events | England - Premier League : Sunderland vs Manchester United (14:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Sunderland_vs_Manchester United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Sunderland vs Manchester United (14:00)
+https://dlstreams.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriealaziovsinternazionale" tvg-name="All Soccer Events | Italy - Serie A : Lazio vs Internazionale (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Lazio_vs_Internazionale.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lazio vs Internazionale (16:00)
+https://dlstreams.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyseriecbravscdtorresnovas" tvg-name="All Soccer Events | Italy - Serie C : Bra vs CD Torres Novas (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Bra_vs_CD Torres Novas.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs CD Torres Novas (16:00)
+https://dlstreams.com/watch.php?id=3
+
+#EXTINF:-1 tvg-id="englandpremierleaguemanchestercityvsbrentford" tvg-name="All Soccer Events | England - Premier League : Manchester City vs Brentford (16:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Manchester City_vs_Brentford.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Manchester City vs Brentford (16:30)
+https://dlstreams.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriealeccevsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Juventus (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Lecce_vs_Juventus.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lecce vs Juventus (18:45)
+https://dlstreams.com/watch.php?id=25
+
+#EXTINF:-1 tvg-id="italyseriealeccevsjuventus" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Juventus (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Lecce_vs_Juventus.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lecce vs Juventus (18:45)
+https://dlstreams.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="motogpfrenchgrandprixsprintrace" tvg-name="Motorsport | MotoGP : French Grand Prix Sprint Race (12:45)" tvg-logo="https://caras.com.br/wp-content/uploads/2026/03/Aos-45-anos-primeira-Maria-Joaquina-vive-nova-fase-longe-da-TV-e-e-casada-com-herdeiro-da-politica.jpg" group-title="Eventi Live DLHD",Motorsport | MotoGP : French Grand Prix Sprint Race (12:45)
+https://dlstreams.com/watch.php?id=575
+
+#EXTINF:-1 tvg-id="fiawec6hoursofspafrancorchampscourse" tvg-name="Motorsport | FIA WEC | 6 Hours of Spa-Francorchamps Course (16:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/020/796/142/original/youtube-free-download-free-png.png" group-title="Eventi Live DLHD",Motorsport | FIA WEC | 6 Hours of Spa-Francorchamps Course (16:30)
+https://dlstreams.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="rolexsailgpchampionshipbermudaday1" tvg-name="Sailing / Boating | Rolex SailGP Championship | Bermuda Day 1 (17:00)" tvg-logo="https://cdn.openart.ai/stable_diffusion/f7256737f1d8145591a07dc3abfc940a2746efcb_2000x2000.webp" group-title="Eventi Live DLHD",Sailing / Boating | Rolex SailGP Championship | Bermuda Day 1 (17:00)
+https://dlstreams.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="sixnationswomenitalywvsenglandw" tvg-name="Rugby Union | Six Nations Women : Italy W vs England W (13:00)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/0/02/England_Admin_Counties_1890-1965.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations Women : Italy W vs England W (13:00)
+https://dlstreams.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="superleaguefinalcivitanovavsperugia" tvg-name="Volleyball | Super League Final : Civitanova vs. Perugia (18:30)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Civitanova_vs_Perugia.png" group-title="Eventi Live DLHD",Volleyball | Super League Final : Civitanova vs. Perugia (18:30)
+https://dlstreams.com/watch.php?id=882
+
