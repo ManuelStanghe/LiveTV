@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[NHL] 2026-05-08 23:00 - AHL - Manitoba Moose vs Grand Rapids Griffins (Italia 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[NHL] 2026-05-08 23:00 - AHL - Manitoba Moose vs Grand Rapids Griffins (Italia 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[Hockey] 2026-05-08 23:00 - Hockey -  vs  (Italia 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TRT.Spor" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/turkey/trt-spor.svg",[Soccer] 2026-05-08 17:00 - 1. Lig - Çorum Belediyespor vs Keçiörengücü (TRT Spor)
 https://cdnlivetv.tv/api/v1/channels/player/?name=trt+spor&code=tr&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="FOX.Soccer.Plus" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-soccer-plus.svg",[Soccer] 2026-05-08 18:00 - Pro League - Al Shabab vs Al Nassr (FOX Soccer Plus)
