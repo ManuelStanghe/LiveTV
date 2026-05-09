@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[Soccer] 2026-05-09 11:00 - Bundesliga 2 - Holstein Kiel vs Magdeburg (Italia 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Calcio" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg",[Soccer] 2026-05-09 11:30 - Premier League - Liverpool vs Chelsea (Sky Sport Calcio)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="DAZN.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/dazn-1.png",[Soccer] 2026-05-09 13:00 - Serie A - Cagliari vs Udinese (DAZN 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[Soccer] 2026-05-09 14:00 - Premier League - Sunderland vs Manchester United (Italia 1)
@@ -17,42 +13,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Italia.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/italia-1.svg",[Soccer] 2026-05-09 19:00 - La Liga - Real Sociedad vs Real Betis (Italia 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=italia+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Tennis] 2026-05-09 09:00 - Tennis -  vs  (Sky Sport Uno)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg",[Tennis] 2026-05-09 09:00 - Tennis -  vs  (Sky Sport Tennis)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Tennis] 2026-05-09 09:00 - Tennis -  vs  (Sky Sport Uno)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg",[Tennis] 2026-05-09 09:00 - Tennis -  vs  (Sky Sport Tennis)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Volleyball] 2026-05-09 18:30 - Volleyball -  vs  (Rai Sport)
 https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Rai.Sport" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-sport.webp",[Volleyball] 2026-05-09 18:30 - Volleyball -  vs  (Rai Sport)
 https://cdnlivetv.tv/api/v1/channels/player/?name=rai+sport&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Rai.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-2.svg",[Cycling] 2026-05-09 09:30 - Cycling -  vs  (Rai 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rai+2&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-05-09 09:30 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-05-09 11:00 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Rai.2" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/rai-2.svg",[Cycling] 2026-05-09 09:30 - Cycling -  vs  (Rai 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=rai+2&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-05-09 09:30 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Cycling] 2026-05-09 11:00 - Cycling -  vs  (Euro Sport 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-05-09 10:45 - Motorsport -  vs  (Sky Sport Moto GP)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-05-09 11:30 - Motorsport -  vs  (Sky Sport Moto GP)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-05-09 12:45 - Motorsport -  vs  (Sky Sport Moto GP)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Motorsport] 2026-05-09 16:30 - Motorsport -  vs  (Euro Sport 1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=euro+sport+1&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-05-09 10:45 - Motorsport -  vs  (Sky Sport Moto GP)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-05-09 11:30 - Motorsport -  vs  (Sky Sport Moto GP)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.Moto.GP" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-motogp.svg",[Motorsport] 2026-05-09 12:45 - Motorsport -  vs  (Sky Sport Moto GP)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+moto+gp&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Euro.Sport.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/euro-sport-1.png",[Motorsport] 2026-05-09 16:30 - Motorsport -  vs  (Euro Sport 1)
