@@ -1,5 +1,187 @@
 {
     "Saturday 09th May 2026 - Schedule Time UK GMT": {
+        "Upcoming Events": [
+            {
+                "time": "15:00",
+                "event": "Internazionali BNL d\u2019Italia (Rome Masters Tennis), May 5\u201317, 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport Tennis Italy",
+                        "channel_id": "576"
+                    },
+                    {
+                        "channel_name": "EuroSport 1 Italy",
+                        "channel_id": "878"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
+                "channels": [
+                    {
+                        "channel_name": "Eurosport 1 France",
+                        "channel_id": "772"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "ATP / WTA Tour Finals Build-up Events (Tennis Season Matches), May\u2013June 2026",
+                "channels": [
+                    {
+                        "channel_name": "EuroSport 1 Poland",
+                        "channel_id": "57"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "US Open Golf Championship (Golf Major), June 11\u201314, 2026",
+                "channels": [
+                    {
+                        "channel_name": "NBC USA",
+                        "channel_id": "53"
+                    },
+                    {
+                        "channel_name": "Sky Sports Golf",
+                        "channel_id": "70"
+                    },
+                    {
+                        "channel_name": "Golf Channel USA",
+                        "channel_id": "318"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "PGA Championship (Golf Major Tournament), May 14\u201317, 2026",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sports Golf",
+                        "channel_id": "70"
+                    },
+                    {
+                        "channel_name": "CBS Sports Network",
+                        "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Golf Channel USA",
+                        "channel_id": "318"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Premier League / La Liga / Bundesliga League Matches (Football Season), May\u2013June 2026",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "32"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "WWE Backlash 2026 (Wrestling PPV), 9 May 2026",
+                "channels": [
+                    {
+                        "channel_name": "WWE Network",
+                        "channel_id": "216"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "UFC 328: Chimaev vs. Strickland",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "UFC Fight Night: Allen vs. Costa (May 17, 2026)",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "UFC Fight Night: Song vs. Figueiredo (May 31, 2026)",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "UFC Fight Night: Muhammad vs. Bonfim (June 7, 2026)",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "UFC Freedom 250: Topuria vs. Gaethje (June 14, 2026)",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "Tony Awards 2026 (TV Awards Show), June 7, 2026",
+                "channels": [
+                    {
+                        "channel_name": "CBS",
+                        "channel_id": "52"
+                    },
+                    {
+                        "channel_name": "Paramount+",
+                        "channel_id": "00"
+                    }
+                ]
+            },
+            {
+                "time": "03:30",
+                "event": "Saturday Night Live (SNL)",
+                "channels": [
+                    {
+                        "channel_name": "Sky One USA",
+                        "channel_id": "708"
+                    },
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
+                    },
+                    {
+                        "channel_name": "NBC USA",
+                        "channel_id": "53"
+                    }
+                ]
+            }
+        ],
         "PPV Events": [
             {
                 "time": "09:00",
@@ -196,177 +378,169 @@
                 ]
             }
         ],
-        "Upcoming Events": [
+        "TV Shows": [
             {
-                "time": "15:00",
-                "event": "Internazionali BNL d\u2019Italia (Rome Masters Tennis), May 5\u201317, 2026",
+                "time": "21:00",
+                "event": "FanDuel Racing Live",
                 "channels": [
                     {
-                        "channel_name": "Sky Sport Tennis Italy",
-                        "channel_id": "576"
+                        "channel_name": "Altitude Sports",
+                        "channel_id": "923"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "SailGP Bermuda, Day 1",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Network (CBSSN)",
+                        "channel_id": "308"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "On Patrol: First Shift Season 4, Episode 76",
+                "channels": [
+                    {
+                        "channel_name": "Reelz Channel",
+                        "channel_id": "293"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Philly Homicide Season 2, Episode 5",
+                "channels": [
+                    {
+                        "channel_name": "Oxygen True Crime",
+                        "channel_id": "332"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Love and Marriage: Huntsville Season 11, Episode 10",
+                "channels": [
+                    {
+                        "channel_name": "OWN USA",
+                        "channel_id": "331"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Welcome to Plathville Season 8",
+                "channels": [
+                    {
+                        "channel_name": "TLC USA",
+                        "channel_id": "337"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "World Chase Tag New",
+                "channels": [
+                    {
+                        "channel_name": "Space City Home Network",
+                        "channel_id": "921"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Storage Wars Season 17, Episode 12 \u2022 Finale",
+                "channels": [
+                    {
+                        "channel_name": "A&amp;E USA",
+                        "channel_id": "302"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Amsterdam Narcos Season 1, Episode 2",
+                "channels": [
+                    {
+                        "channel_name": "National Geographic (NGC)",
+                        "channel_id": "328"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Devil of a Boss Season 1, Episode 3",
+                "channels": [
+                    {
+                        "channel_name": "Investigation Discovery (ID USA)",
+                        "channel_id": "324"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Duck Dynasty: The Revival Season 2, Episode 10 \u2022 Finale",
+                "channels": [
+                    {
+                        "channel_name": "A&amp;E USA",
+                        "channel_id": "302"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Saturday Night Live Jenna Ortega; The 1975",
+                "channels": [
+                    {
+                        "channel_name": "NBCNY USA",
+                        "channel_id": "769"
                     },
-                    {
-                        "channel_name": "EuroSport 1 Italy",
-                        "channel_id": "878"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "French Open (Roland Garros Tennis Grand Slam), May 25 \u2013 June 8, 2026",
-                "channels": [
-                    {
-                        "channel_name": "Eurosport 1 France",
-                        "channel_id": "772"
-                    }
-                ]
-            },
-            {
-                "time": "16:00",
-                "event": "ATP / WTA Tour Finals Build-up Events (Tennis Season Matches), May\u2013June 2026",
-                "channels": [
-                    {
-                        "channel_name": "EuroSport 1 Poland",
-                        "channel_id": "57"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "US Open Golf Championship (Golf Major), June 11\u201314, 2026",
-                "channels": [
                     {
                         "channel_name": "NBC USA",
                         "channel_id": "53"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "Primal Combat Season 1",
+                "channels": [
+                    {
+                        "channel_name": "Nat Geo Wild USA",
+                        "channel_id": "745"
+                    }
+                ]
+            },
+            {
+                "time": "02:30",
+                "event": "Neighborhood Watch Season 1, Episode 3",
+                "channels": [
+                    {
+                        "channel_name": "TLC USA",
+                        "channel_id": "337"
+                    }
+                ]
+            },
+            {
+                "time": "03:00",
+                "event": "Fear Factor: House of Fear Season 1, Episode 1",
+                "channels": [
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
                     },
                     {
-                        "channel_name": "Sky Sports Golf",
-                        "channel_id": "70"
-                    },
-                    {
-                        "channel_name": "Golf Channel USA",
-                        "channel_id": "318"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "PGA Championship (Golf Major Tournament), May 14\u201317, 2026",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sports Golf",
-                        "channel_id": "70"
-                    },
-                    {
-                        "channel_name": "CBS Sports Network",
-                        "channel_id": "308"
-                    },
-                    {
-                        "channel_name": "Golf Channel USA",
-                        "channel_id": "318"
-                    }
-                ]
-            },
-            {
-                "time": "18:00",
-                "event": "Premier League / La Liga / Bundesliga League Matches (Football Season), May\u2013June 2026",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "32"
-                    }
-                ]
-            },
-            {
-                "time": "20:00",
-                "event": "WWE Backlash 2026 (Wrestling PPV), 9 May 2026",
-                "channels": [
-                    {
-                        "channel_name": "WWE Network",
-                        "channel_id": "376"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5011"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "5012"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "UFC 328: Chimaev vs. Strickland (May 9, 2026)",
-                "channels": [
-                    {
-                        "channel_name": "UFC Fight Pass",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "UFC Fight Night: Allen vs. Costa (May 17, 2026)",
-                "channels": [
-                    {
-                        "channel_name": "UFC Fight Pass",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "UFC Fight Night: Song vs. Figueiredo (May 31, 2026)",
-                "channels": [
-                    {
-                        "channel_name": "UFC Fight Pass",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "UFC Fight Night: Muhammad vs. Bonfim (June 7, 2026)",
-                "channels": [
-                    {
-                        "channel_name": "UFC Fight Pass",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "UFC Freedom 250: Topuria vs. Gaethje (June 14, 2026)",
-                "channels": [
-                    {
-                        "channel_name": "UFC Fight Pass",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "Tony Awards 2026 (TV Awards Show), June 7, 2026",
-                "channels": [
-                    {
-                        "channel_name": "CBS",
-                        "channel_id": "52"
-                    },
-                    {
-                        "channel_name": "Paramount+",
-                        "channel_id": "00"
+                        "channel_name": "FOX USA",
+                        "channel_id": "54"
                     }
                 ]
             },
             {
                 "time": "03:30",
-                "event": "Saturday Night Live (SNL)",
+                "event": "Saturday Night Live Matt Damon; Noah Kahan (S51E19) \u2022 Live",
                 "channels": [
-                    {
-                        "channel_name": "Sky One USA",
-                        "channel_id": "708"
-                    },
                     {
                         "channel_name": "NBCNY USA",
                         "channel_id": "769"
@@ -7178,8 +7352,40 @@
                 "event": "Countdown to Backlash Live",
                 "channels": [
                     {
+                        "channel_name": "Backlash PPV I",
+                        "channel_id": "216"
+                    },
+                    {
+                        "channel_name": "Backlash PPV II",
+                        "channel_id": "217"
+                    },
+                    {
+                        "channel_name": "Backlash PPV III",
+                        "channel_id": "218"
+                    },
+                    {
+                        "channel_name": "Backlash PPV IV",
+                        "channel_id": "219"
+                    },
+                    {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
+                    },
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
                     }
                 ]
             },
@@ -7187,6 +7393,30 @@
                 "time": "22:00",
                 "event": "WWE Backlash Live",
                 "channels": [
+                    {
+                        "channel_name": "Backlash PPV I",
+                        "channel_id": "216"
+                    },
+                    {
+                        "channel_name": "Backlash PPV II",
+                        "channel_id": "217"
+                    },
+                    {
+                        "channel_name": "Backlash PPV III",
+                        "channel_id": "218"
+                    },
+                    {
+                        "channel_name": "Backlash PPV IV",
+                        "channel_id": "219"
+                    },
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    },
+                    {
+                        "channel_name": "ESPN Deportes",
+                        "channel_id": "375"
+                    },
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
@@ -8646,6 +8876,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
                     }
                 ]
             }
