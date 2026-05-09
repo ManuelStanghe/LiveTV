@@ -38,6 +38,10 @@
                     {
                         "channel_name": "FAMEMMATV",
                         "channel_id": "5029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -6994,6 +6998,10 @@
                     {
                         "channel_name": "FAMEMMATV",
                         "channel_id": "5029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
                     }
                 ]
             }
@@ -8471,7 +8479,7 @@
             },
             {
                 "time": "01:00",
-                "event": "WNBA : Chicago Sky vs Portland",
+                "event": "WNBA : Chicago Sky vs Portland Fire",
                 "channels": [
                     {
                         "channel_name": "NBA TV USA",
