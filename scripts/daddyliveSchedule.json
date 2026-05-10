@@ -154,6 +154,18 @@
                 ]
             }
         ],
+        "PPV Events": [
+            {
+                "time": "23:00",
+                "event": "Huset's Speedway Opener",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "13"
+                    }
+                ]
+            }
+        ],
         "TV Shows": [
             {
                 "time": "00:00",
@@ -2932,6 +2944,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5007"
                     }
                 ]
             },
@@ -4478,6 +4494,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4006"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5008"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5009"
                     }
                 ]
             },
@@ -4525,7 +4549,7 @@
                     },
                     {
                         "channel_name": "Match! Football 3 Russia",
-                        "channel_id": "1385"
+                        "channel_id": "138"
                     },
                     {
                         "channel_name": "Sportdigital FUSSBALL DE",
@@ -6870,8 +6894,8 @@
                 "event": "World Seniors Championship Snooker : Finals",
                 "channels": [
                     {
-                        "channel_name": "Channel 5 UK",
-                        "channel_id": "355"
+                        "channel_name": "5 Action UK",
+                        "channel_id": "21"
                     }
                 ]
             }
@@ -8692,6 +8716,10 @@
                     {
                         "channel_name": "RTE 2",
                         "channel_id": "365"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             }
