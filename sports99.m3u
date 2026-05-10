@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="DAZN.1" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/dazn-1.png",[Soccer] 2026-05-10 18:45 - Serie A - Milan vs Atalanta (DAZN 1)
-https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Match.Premier" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/russia/match-premier.svg",[Soccer] 2026-05-10 07:00 - FNL - Ufa vs Rotor Volgograd (Match Premier)
 https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Canal.Sport.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/poland/canal-sport-3.svg",[Soccer] 2026-05-10 10:15 - Ekstraklasa - Piast Gliwice vs Katowice (Canal Sport 3)
