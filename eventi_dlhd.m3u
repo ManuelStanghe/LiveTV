@@ -1,1 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="internazionalibnlditaliaromemasterstennismay5172026" tvg-name="Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)" tvg-logo="https://www.niwatori-fighter.net/wordpress/wp-content/themes/niwatori-fighter_v1/assets/images/global/common/index/img_fever_piyoko.png" group-title="Eventi Live DLHD",Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)
+https://dlstreams.com/watch.php?id=576
+
+#EXTINF:-1 tvg-id="internazionalibnlditaliaromemasterstennismay5172026" tvg-name="Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)" tvg-logo="https://media.phillyvoice.com/media/images/riot_nerd_2.2e16d0ba.fill-1200x630-c0.png" group-title="Eventi Live DLHD",Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)
+https://dlstreams.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="italyserieaparmavsroma" tvg-name="All Soccer Events | Italy - Serie A : Parma vs Roma (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Parma_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Parma vs Roma (16:00)
+https://dlstreams.com/watch.php?id=9
+
+#EXTINF:-1 tvg-id="italyserieaparmavsroma" tvg-name="All Soccer Events | Italy - Serie A : Parma vs Roma (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Parma_vs_Roma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Parma vs Roma (16:00)
+https://dlstreams.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyserieamilanvsatalanta" tvg-name="All Soccer Events | Italy - Serie A : Milan vs Atalanta (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Milan_vs_Atalanta.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Milan vs Atalanta (18:45)
+https://dlstreams.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="rolexsailgpchampionshipbermudaday2" tvg-name="ailing / Boating | Rolex SailGP Championship | Bermuda Day 2 (17:00)" tvg-logo="https://www.niwatori-fighter.net/wordpress/wp-content/themes/niwatori-fighter_v1/assets/images/global/common/index/img_fever_piyoko.png" group-title="Eventi Live DLHD",ailing / Boating | Rolex SailGP Championship | Bermuda Day 2 (17:00)
+https://dlstreams.com/watch.php?id=460
+
+#EXTINF:-1 tvg-id="top14racing92vslarochelle" tvg-name="Rugby Union | Top 14 : Racing 92 vs La Rochelle (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Racing 92_vs_La Rochelle.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Racing 92 vs La Rochelle (19:00)
+https://dlstreams.com/watch.php?id=460
+
