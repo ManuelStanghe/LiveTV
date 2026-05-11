@@ -1,1 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="internazionalibnlditaliaromemasterstennismay5172026" tvg-name="Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)" tvg-logo="https://blockdag.networkv2.com/logo.png" group-title="Eventi Live DLHD",Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)
+https://dlstreams.com/watch.php?id=576
+
+#EXTINF:-1 tvg-id="internazionalibnlditaliaromemasterstennismay5172026" tvg-name="Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)" tvg-logo="https://cdn.sex.com/images/pinporn/2022/12/27/28620007.gif?width=620" group-title="Eventi Live DLHD",Upcoming Events | Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026 (15:00)
+https://dlstreams.com/watch.php?id=878
+
+#EXTINF:-1 tvg-id="italyserieanapolivsbologna" tvg-name="Soccer | Italy - Serie A : Napoli vs Bologna (18:45)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Napoli_vs_Bologna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Napoli vs Bologna (18:45)
+https://dlstreams.com/watch.php?id=877
+
+#EXTINF:-1 tvg-id="englandpremierleaguetottenhamhotspurvsleedsunited" tvg-name="Soccer | England - Premier League : Tottenham Hotspur vs Leeds United (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Tottenham Hotspur_vs_Leeds United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Tottenham Hotspur vs Leeds United (19:00)
+https://dlstreams.com/watch.php?id=870
+
+#EXTINF:-1 tvg-id="2026bnlitalianinternationaltennistournamentatpwtathirdround" tvg-name="Tennis | 2026 BNL Italian International Tennis Tournament ATP/WTA Third Round (09:00)" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Emblem.png" group-title="Eventi Live DLHD",Tennis | 2026 BNL Italian International Tennis Tournament ATP/WTA Third Round (09:00)
+https://dlstreams.com/watch.php?id=461
+
+#EXTINF:-1 tvg-id="2026bnlitalianinternationaltennistournamentatpwtathirdround" tvg-name="Tennis | 2026 BNL Italian International Tennis Tournament ATP/WTA Third Round (09:00)" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Emblem.png" group-title="Eventi Live DLHD",Tennis | 2026 BNL Italian International Tennis Tournament ATP/WTA Third Round (09:00)
+https://dlstreams.com/watch.php?id=576
+
