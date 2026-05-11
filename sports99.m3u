@@ -3,14 +3,6 @@
 https://cdnlivetv.tv/api/v1/channels/player/?name=dazn+1&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Sky.Sport.Calcio" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-calcio.svg",[Soccer] 2026-05-11 19:00 - Premier League - Tottenham Hotspur vs Leeds United (Sky Sport Calcio)
 https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+calcio&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Tennis] 2026-05-11 09:00 - Tennis -  vs  (Sky Sport Uno)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg",[Tennis] 2026-05-11 09:00 - Tennis -  vs  (Sky Sport Tennis)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Uno" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno.svg",[Tennis] 2026-05-11 09:00 - Tennis -  vs  (Sky Sport Uno)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+uno&code=it&user=streamsports99&plan=vip
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis" group-title="Eventi Live Sports99" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-tennis.svg",[Tennis] 2026-05-11 09:00 - Tennis -  vs  (Sky Sport Tennis)
-https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+tennis&code=it&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="TNT.Sports.7" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sport-7.png",[Soccer] 2026-05-11 15:00 - Virsliga - Grobiņa vs FS Jelgava (TNT Sports 7)
 https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=streamsports99&plan=vip
 #EXTINF:-1 tvg-id="Arena.Sport.1" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1.webp",[Soccer] 2026-05-11 15:00 - Liga I - Metaloglobus vs Hermannstadt (Arena Sport 1)
